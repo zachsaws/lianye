@@ -31,7 +31,7 @@ canvas.addEventListener('click',()=>{const n=(Number(hero.dataset.beat)+1)%3;doc
 const pose={hand:0,eyes:0,card:0,rot:.14};function render(now){requestAnimationFrame(render);const dt=Math.max(0,Math.min((now-lastTime)/1000,.1));lastTime=now;const motion=window.LianyeMotion||{hero:0,heroProgress:0,paused:true},beat=motion.hero||0;const paused=motion.paused||document.hidden;const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-override');
 if(!visible||document.hidden)return;
 if(beat!==oldBeat){oldBeat=beat;blend=0;drawSheet(beat);}blend=Math.min(1,blend+dt*2.5);
-const response=beat===1?1:0,receipt=beat===2?1:0;const factor=reduced||paused?1:Math.min(1,dt*4.5);pose.hand+=(response-pose.hand)*factor;pose.eyes+=(response-pose.eyes)*factor;pose.card+=(receipt-pose.card)*factor;pose.rot+=((beat===0?.14:beat===1?-.08:.09)-pose.rot)*factor;
+const response=beat===1?1:0,receipt=beat===2?1:0;const factor=reduced||paused?1:Math.min(1,dt*4.5);pose.hand+=(response-pose.hand)*factor;pose.eyes+=(1-pose.eyes)*factor;pose.card+=(receipt-pose.card)*factor;pose.rot+=((beat===0?.14:beat===1?-.08:.09)-pose.rot)*factor;
 hand.position.set(2.8-pose.hand*2.7,2.35-pose.hand*1.7,1.65-pose.hand*.9);hand.visible=pose.hand>.01;knob.position.z=.58-pose.hand*.075;eyes.scale.setScalar(Math.max(.001,pose.eyes));eyeMat.emissiveIntensity=.12+pose.eyes*.55;device.rotation.y=pose.rot;card.position.y=1.12+pose.card*.38;card.rotation.z=-.06+pose.card*.1;flap.rotation.x=pose.card*-.5;
 if(beat===1&&!paused&&!reduced){const blink=Math.sin(now*.002)> .97?.16:1;eyes.scale.y=Math.max(.001,pose.eyes*blink);}
 const unsettled=Math.abs(response-pose.hand)+Math.abs(receipt-pose.card)>.001;
