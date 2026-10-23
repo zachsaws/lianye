@@ -1,0 +1,4928 @@
+{
+  "date": "2026-10-19",
+  "scope": "公开市场通路研究参考，不是客户、签约伙伴或已开放网络",
+  "rows": [
+    {
+      "id": "bd0be013e668",
+      "name": "智玩店",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "AI产品 · 集合体验与零售",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable"
+      ],
+      "sources": [
+        "https://zhiwandian.com/"
+      ],
+      "facts": "AI产品集合体验与零售；公布深圳体验店及多品类商品方向。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "2b4582e77d57",
+      "name": "INNO100",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "创新消费科技 · 场景体验零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://inno100.ai/",
+        "https://inno100.ai/menu"
+      ],
+      "facts": "官网呈现创新产品体验、场景交互与早期科技消费者定位。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0a64cf2aa9e7",
+      "name": "Z·Pilot",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "AI产品 · 穿戴与办公体验零售",
+      "directions": [
+        "companion",
+        "wearable",
+        "office",
+        "creative"
+      ],
+      "sources": [
+        "https://edu.sh.gov.cn/study_cn_news/20260716/2c5fca5994d84a2e8ed2f9e6e76e14fb.html",
+        "https://www.gzw.sh.gov.cn/shgzw_xwzx_xwfb/20250430/dad835aa92b64ae8b8fdefcd04bb2874.html",
+        "https://www.intellif.com/DrLook"
+      ],
+      "facts": "2025年报道介绍模速空间体验店呈现穿戴、效率、健康与音频等新品，并提供体验反馈。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "661ed84a67bc",
+      "name": "AI机器时代",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "机场场景 · 科技产品体验零售",
+      "directions": [
+        "companion",
+        "learning"
+      ],
+      "sources": [
+        "https://www.aijqsd.com/about.html",
+        "https://www.intellif.com/DrLook"
+      ],
+      "facts": "机场场景 · 科技产品体验零售",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "53330d13f0ea",
+      "name": "陶朱新造局",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "机器人与智能产品 · 体验零售",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "home",
+        "office",
+        "creative"
+      ],
+      "sources": [
+        "https://sgdaily.shougang.com.cn/sgrb/2026/03/23/77027.html",
+        "https://www.xreal.com/cn/stores"
+      ],
+      "facts": "产品到店体验名单列有北京两个触点。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "585f58fdf0df",
+      "name": "博士／总统眼镜",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "专业体验与验配",
+      "tag": "眼镜 · 验配与AR体验",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.xreal.com/cn/stores"
+      ],
+      "facts": "产品到店体验名单列有两种门店品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "876980ffaebf",
+      "name": "顺电",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "数码家电 · 零售与团购",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "home"
+      ],
+      "sources": [
+        "https://www.intellif.com/DrLook",
+        "https://www.sundan.com/",
+        "https://sundan.com/activity/brand"
+      ],
+      "facts": "官网有数码家电商品、团购、会员与服务入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a14e570ad206",
+      "name": "九机",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "科技零售 · 西南",
+      "directions": [
+        "learning",
+        "wearable",
+        "office",
+        "creative",
+        "home"
+      ],
+      "sources": [
+        "https://www.9ji.com/doc/15/74",
+        "https://www2.9ji.com/doc/1/43",
+        "https://www.9ji.com/doc/15/41",
+        "https://www.9ji.com/doc/1/74"
+      ],
+      "facts": "官网含消费电子与学习设备目录、附近门店、维修、供应商申请入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c5fafdda7fc9",
+      "name": "小米有品",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "精品零售 · 商户选品",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://zhaoshang.xiaomiyoupin.com/"
+      ],
+      "facts": "官方商户合作页区分国内、跨境供应商；列出资质审核、协议、开店及选品上架流程。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d8085d7403f5",
+      "name": "凯知乐",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "玩具 · 品牌运营与分销",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.kidslandchina.com/",
+        "https://www.china-toy-expo.com/exhibitor/kidsland-6948"
+      ],
+      "facts": "官网导航区分品牌合作、零售、百货专柜、分销和电商平台。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "eacf9c7ed469",
+      "name": "玩具反斗城",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "玩具 · 试玩与家庭零售",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.toysruschina.com/zh-cn/aboutus.html"
+      ],
+      "facts": "官网介绍多品牌玩具零售、店内示范与试玩；中国介绍中的数量标为2024年1月。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "84b12e1a8425",
+      "name": "三夫户外",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "户外 · 零售、赛事与集采",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://sanfo.com/about/general.asp"
+      ],
+      "facts": "官网介绍多品牌零售、活动与企业定制采购；不同业务不合并为门店能力。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "67a19a5dafa0",
+      "name": "Robot Mall",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "机器人 · 场景展售与租赁",
+      "directions": [
+        "companion",
+        "home"
+      ],
+      "sources": [
+        "https://kfqgw.beijing.gov.cn/ywdt/gdcyfzgd/zncx/202604/t20260422_4602253.html"
+      ],
+      "facts": "2026年报道介绍Robot Mall连接展示、销售、二次开发、租赁与维保。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "2c11ee8ae8b7",
+      "name": "璞康",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "科创教育 · 方案与品牌运营",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "facts": "乐高教育官方名单列上海璞康实业有限公司，说明学校和机构采购、培训部署及售后；璞康官方教育方案含科学教育与STEAM方向。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "940c16cbd3b8",
+      "name": "科力普",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 礼品与福利",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://fuli.colipu.com/customized.html",
+        "https://www.colipu.com/category3-digitalcommunications-colipu-digitalvoicerecorder-digitalvoicerecorder-13255183.html"
+      ],
+      "facts": "定制礼品页列有企业礼盒、办公文具、生活日用和数码商品，并区分采购与渠道销售入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "20ab31675d4b",
+      "name": "柏斯音乐",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "音乐与专业创作",
+      "tag": "乐器与录音 · 零售及售后",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.parsonsmusic.com.cn/shanghai/"
+      ],
+      "facts": "电商平台有乐器、音响录音、门店查询、合作品牌与售后维护入口；新闻部分含2022内容。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "251a3fe35a63",
+      "name": "传新科技",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "专业音视频 · 分销与集成",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.dmtpro.com/index.php?a=lists&catid=27"
+      ],
+      "facts": "专业音视频 · 分销与集成",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "aaa3dfd58ac3",
+      "name": "DK-AI",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "HomeKit · 单品与全宅集成销售",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://dk-ai.com/moveAbout.html"
+      ],
+      "facts": "介绍以HomeKit为起点的多品牌智能生活集成销售，以及全宅方案配置、培训和服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "7956fcb57e98",
+      "name": "沐诺智家",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "全屋智能 · 多品牌集成与交付",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://munootech.com/cn/munoo-home-cn/"
+      ],
+      "facts": "官方页面介绍多品牌全屋规划、灯光安防影音集成、勘测施工调试与维护",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "40b312c16295",
+      "name": "E宠",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物用品 · 智能设备零售",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://item.epet.com/658869.html"
+      ],
+      "facts": "商品详情页列小佩PETKIT智能饮水机3代，编号658869；页脚列重庆易宠科技有限公司。页面同时列其他智能饮水机及耗材。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作",
+      "aliases": [
+        "E宠 / 重庆易宠科技有限公司"
+      ]
+    },
+    {
+      "id": "3436d8ce4f5a",
+      "name": "西域",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 电脑与会议设备",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.ehsy.com/category-51697"
+      ],
+      "facts": "官方采购目录有笔记本电脑等办公IT商品、报价和供货信息，并有供应商合作入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "93eed5006a03",
+      "name": "七色花",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "幼教 · 多品牌玩教具与课程资源",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.qisehua.cn/"
+      ],
+      "facts": "官网介绍引进教育资源及国际品牌合作，列科学、建构、益智等产品；中国玩协展商资料说明园所课程及家庭商品方向。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "17f045305e3d",
+      "name": "迅合行",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "玩具 · 经销与TOYS STAR零售",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+      ],
+      "facts": "参展企业介绍品牌经销、线上线下批零渠道、直营TOYS STAR与IP活动。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "f0018b80c315",
+      "name": "雅登乐器",
+      "parent": null,
+      "path": "business",
+      "subcategory": "音乐与专业创作",
+      "tag": "专业音响与乐器 · 代理分销",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.actonchina.com/about"
+      ],
+      "facts": "官方介绍乐器及专业音响总代理、经销商与工程商服务、技术支持和售后。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ebc380e4d0b6",
+      "name": "美承",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "数码零售 · 企业IT服务",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.mcebg.com/"
+      ],
+      "facts": "官网介绍集团零售、政教及企业业务；索电科技提供行业AI方案、智慧办公与IT采购服务。导航列Apple Vision Pro企业方案入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "22be8b92c10d",
+      "name": "中智关爱通",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "企业福利 · 小家电与数码潮玩",
+      "directions": [
+        "home",
+        "creative"
+      ],
+      "sources": [
+        "https://www.guanaitong.com/benefit/index.html",
+        "https://www.guanaitong.com/m/news/article-91-343058-1.html"
+      ],
+      "facts": "员工福利、自选兑换、企业采购；供应商招募与商品API入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b5c82e4d8d28",
+      "name": "上海贝杰",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "亲子与潮玩 · 品牌代理",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.babiesjoy.com.cn/"
+      ],
+      "facts": "母婴、儿童和潮玩方向品牌代理，线上线下销售与物流履约。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c3c2d7ba282b",
+      "name": "华森葳",
+      "parent": null,
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "幼教 · 教具代理与园所配置",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.huasenwei.com/mine.html",
+        "https://www.huasenwei.com/join.html"
+      ],
+      "facts": "官方介绍幼教产品整体服务、国际品牌代理、园所家具教具和配置安装；官方商城按托幼年龄和教学区角分类。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "745fac22c382",
+      "name": "爱施德",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "通讯 · 分销订货",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://vip4.aisidi.com/index.aspx"
+      ],
+      "facts": "分销在线服务平台有登录注册、手机、平板、穿戴和配件订货目录。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "896ee1a6b852",
+      "name": "好享家",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "家居 · 安装与系统集成",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.hosjoy.com/dfx.html"
+      ],
+      "facts": "单分享介绍舒适智能家居采销，含冷暖主材辅材及产品采购。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "9ca454f7cd55",
+      "name": "欧菲斯",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 办公IT与物资",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.officemate.cn/"
+      ],
+      "facts": "官方商城目录有办公物资、笔记本电脑、平板及工作站等品类。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c8f0b02697d5",
+      "name": "翰林汇",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "ICT · 分销与融合零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.highly.com.cn/"
+      ],
+      "facts": "官网区分智慧分销、企业服务、线上服务、融合零售。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "e031da684934",
+      "name": "永华嘉业",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "亲子玩具 · 渠道运营与礼赠",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/media_center/detail?id=17117"
+      ],
+      "facts": "采访介绍玩具与母婴供应链、礼赠、电商、IP活动与选品协同，并提及计划引入AI互动玩具。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d1ecc106e74f",
+      "name": "新烨数码",
+      "parent": null,
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "科创教育 · 学校与机构方案",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.xinyeshuma.com/Service.html"
+      ],
+      "facts": "官网分别说明学校与校外教育机构服务；合作伙伴页列中鸣、大疆教育、鲸鱼、童心制物、DOBOT等品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "9da5c9a8347e",
+      "name": "上海锐能体育",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动专业零售",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b8b5c5478317",
+      "name": "音联邦",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "家庭影音 · 品牌运营与方案设计",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.sz-ua.com/know/"
+      ],
+      "facts": "官方介绍多品牌民用音响运营、音乐馆加盟、方案设计、技术支持与销售培训；页面含品牌中心和招商合作。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ffab68e86d8e",
+      "name": "得力集实",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 办公与礼赠",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.jslink.com/page/99efdccc0199efdccc5aff8080810000"
+      ],
+      "facts": "官网场景页列有办公定制、商务礼赠、员工福利和数码标品定制。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b65f08ca3fd8",
+      "name": "长虹佳华",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "ICT · 分销与方案服务",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www2.changhongit.com/about/profile/value-added-commerical.html"
+      ],
+      "facts": "业务页介绍ICT、云与XR方案、新流通、品牌综合服务和B2B交易平台。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d8b006f5c53a",
+      "name": "孩子王",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "亲子 · 商品与会员运营",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2025-08-19/1224502088.pdf"
+      ],
+      "facts": "半年报说明母婴童线上线下零售、供应商营销与数字化服务，以及面向品牌商和经销商的平台服务；另披露2025年6月自研AI智能玩具上市。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0188eb4bebe3",
+      "name": "乐博士机器人",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人教育 · 器材与师训",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.chinarobotc.com/portal/page/index.html?id=3",
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "官网公司介绍确认西安经营主体；品牌合作页说明VEX软硬件销售代理、自有AI-KIT、课程和师训，产品导航列VEX及SolidWorks。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ee5a45b2c646",
+      "name": "北京广世天运",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "骑行产品渠道",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：cycling。",
+      "region": "北京",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b099505d3cf0",
+      "name": "京东五星电器",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "家电家居 · 场景零售",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://5star.jd.com/"
+      ],
+      "facts": "官网区分京东MALL、城市旗舰店、五星门店、乡镇加盟供应链等。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "e15d2f8faac1",
+      "name": "领先未来",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 办公与礼品供给",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://open.sunyur.com/market/00000000025.html"
+      ],
+      "facts": "采购应用目录介绍办公物资、工业品、礼品福利与智能办公。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b28fe6df75ae",
+      "name": "神州数码",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "ICT · 授权分销",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/distributor.html"
+      ],
+      "facts": "授权分销名单列有相关供应链公司。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "826314b8edfb",
+      "name": "爱婴室",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴童 · 连锁零售",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.aiyingshi.com/Shop/index.aspx"
+      ],
+      "facts": "官方店铺目录覆盖多个区域，并包含尚未开业的计划网点。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "45bab2676d72",
+      "name": "欣欣相融",
+      "parent": null,
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "学校与机构 · 乐高教育器材",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "facts": "乐高教育列为授权经销商，并链接学而思网站。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "e4a6caeef05b",
+      "name": "上海天授",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 上海",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation",
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "官方运动休闲经销目录列明上海天授电子科技有限公司；通过六页公开目录读取。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "70079f085246",
+      "name": "东方购物",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "内容零售 · 电视与移动成交",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.smg.cn/review/202504/0166357.html"
+      ],
+      "facts": "2025年官方文章介绍供应链入驻、品牌营销与政企合作绿色通道。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "eaee6045df2f",
+      "name": "史泰博",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 智能会议与福礼",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://srm.stbchina.cn/settled?mode=supplicer",
+        "https://trade.icbc.com.cn/shopstore/company.jhtml?shopId=002005",
+        "https://www.stbchina.cn/index.html"
+      ],
+      "facts": "工行店铺企业自传介绍B2B采购解决方案及办公、营销物资经营。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4ba4289d934c",
+      "name": "伟仕佳杰",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "ICT · 分销与企业服务",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://web.vstecs.com/jingang/ITS.html",
+        "https://web.vstecs.com/jingang/cloud-computing.html",
+        "https://www.vstecs.com/",
+        "https://www.vstecs.com/business/business.html"
+      ],
+      "facts": "消费电子、企业系统、云计算与供应链业务分列。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4b77c06ffdb4",
+      "name": "东莞博思",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人教育 · 器材与课程",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "东莞",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作",
+      "aliases": [
+        "东莞市博思电子数码科技有限公司"
+      ]
+    },
+    {
+      "id": "87af6769dccf",
+      "name": "百纳海通",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 广东",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation",
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "官方运动休闲经销目录列明深圳市百纳海通科技有限公司；通过六页公开目录读取。",
+      "region": "广东",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "64531367aca3",
+      "name": "苏宁易购",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "零售与分销 · 政企采购",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://cc.suning.com/"
+      ],
+      "facts": "官方合作门户列有零售云与政企采购入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "e8d544c04a70",
+      "name": "英迈中国",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "技术分销 · 经销商订货",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://cn.ingrammicro.com.cn/site/vendor/index"
+      ],
+      "facts": "官方厂商目录与经销商服务入口，可证技术产品分销。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c0fc73796b71",
+      "name": "南天远通",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "数码 · 平台店铺经营",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权线上名单列有平台店铺经营主体。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "169bfa147a03",
+      "name": "TOP TOY",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "潮玩 · 零售与IP经营",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.toptoyglobal.com/about/8.html"
+      ],
+      "facts": "线下零售、线上业务与IP授权经营。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c08fcf7a2e9a",
+      "name": "元擎智造",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 上海",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "69bdc66ca823",
+      "name": "河南图图",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 河南",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/",
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+      "region": "河南",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "757db19580f0",
+      "name": "齐心",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 数码与共享供应链",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://open.qx.com/",
+        "https://ssc.comix.com.cn/"
+      ],
+      "facts": "共享供应链平台有数码3C、家电等目录及不同企业采购标签。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4a9c0893c4b3",
+      "name": "方正易通",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "数码 · 银行APP商城",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权名单列有银行APP中的销售主体。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a2ce7cee4ebb",
+      "name": "广东瑞华行",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "玩具 · 多品牌代理与批零",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.danielco.com.cn/"
+      ],
+      "facts": "介绍多品牌玩具代理，成人收藏与儿童玩具方向，零售、批发和电商销售。",
+      "region": "广东",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "548e72343a0f",
+      "name": "司麦尔",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 江苏",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "江苏",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "073969d44ac4",
+      "name": "南京易尔路",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 江苏",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation",
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "官方运动休闲经销目录列明南京易尔路贸易有限公司；通过六页公开目录读取。",
+      "region": "南京",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c2b8ad3411e3",
+      "name": "圣谛影音智能",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "全宅智能交付",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.sentimenthifi.com/n_s.asp?nid=14",
+        "https://www.sentimenthifi.com/business.html"
+      ],
+      "facts": "官网列明全宅控制、影音系统集成与售后，并明确圣谛隶属于上海森笛。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "cbaf03e3736e",
+      "name": "一线达通",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "政企采购 · 办公与会议设备",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://city-office.com.cn/goods.php?id=1169613",
+        "https://city-office.com.cn/us/about_us/introduction/"
+      ],
+      "facts": "官网列明一线达通科技集团有限公司，政企采购平台；商品页1169613列希沃OPS会议教学平板模块并说明平台销售及售后。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "478e4e04b7ca",
+      "name": "诚顺供应链",
+      "parent": null,
+      "path": "content",
+      "subcategory": "科技与数码内容",
+      "tag": "数码 · 内容平台店铺",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权线上名单列有小红书店铺经营主体。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "cb362c90ae88",
+      "name": "中亿孕婴",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴童 · 区域连锁",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.zyyy.cn/about"
+      ],
+      "facts": "母婴童商品与服务，区域连锁经营；官方介绍包含玩乐方向。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "44e28c266f28",
+      "name": "巍高电子",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 浙江",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "浙江",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "3f3d6d495432",
+      "name": "沈阳恒宇",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 东北",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation",
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "官方运动休闲经销目录列明沈阳佳明恒宇科技有限公司；通过六页公开目录读取。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作",
+      "aliases": [
+        "沈阳佳明恒宇科技有限公司"
+      ]
+    },
+    {
+      "id": "f6de8a0c47dd",
+      "name": "卓渤智能",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "影音定制安装",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "facts": "爱威官方销售网络列名及代理产品：FOCAL定制安装系列。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0c17b2577252",
+      "name": "禹亮科技",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业会议 · 设备供货与集成",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.yulianggroup.cn/company/"
+      ],
+      "facts": "官网公司介绍列上海经营主体、会议设备供应、部署和运维；导航含科大讯飞会议终端、思必驰麦克风及AI办公本。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作",
+      "aliases": [
+        "上海禹亮信息科技有限公司"
+      ]
+    },
+    {
+      "id": "ad16cdfc11aa",
+      "name": "长秦城",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "音乐与专业创作",
+      "tag": "乐器与录音设备 · 多品牌经营",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.musicgw.com/"
+      ],
+      "facts": "官网品牌与店铺导航包括Focusrite、RunningMan、Ibanez等，并设录音音频和经销网点；长厚页面位于同一经营网络，未分别展示以避免重复规模感。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "70f9b9aa981a",
+      "name": "凡课科技",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 湖北",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4ffa55611257",
+      "name": "天津正睿",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 天津",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/",
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+      "region": "天津",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0cb9c4d32fbe",
+      "name": "博盛智能",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "区域影音渠道",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "facts": "爱威官方销售网络列名及代理产品：FOCAL定制安装系列。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "12cd00f89454",
+      "name": "盛世鼎元",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业采购 · 数码与会议设备",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.ssdy.shop/"
+      ],
+      "facts": "自有企业采购商城列有翻译机/录音笔、会议平板、智能影音，页面有我是供应商入口，页脚主体武汉盛世鼎元科技有限公司。b2b.ssdy.shop实际HTML读取确认。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ee179ed41e6c",
+      "name": "雷电音频",
+      "parent": null,
+      "path": "business",
+      "subcategory": "音乐与专业创作",
+      "tag": "录音设备 · 专业品牌代理",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://leidianaudio.com/index.html"
+      ],
+      "facts": "官网列代理品牌、话筒、话放、监听音箱与精选录音产品，面向音乐人和录音师。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a3f4561f6e80",
+      "name": "童真时代",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "玩具 · 电商供货与实体分销",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/exhibitor/Dongguan-Childlike-Times-Trading-Co-Ltd--10527"
+      ],
+      "facts": "展会主办方名录列品牌玩具批发、零售、电商供货和实体分销；商品含TY毛绒和拼装玩具。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "76eb573f4526",
+      "name": "创首科技",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 湘赣",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "49bac66a6e61",
+      "name": "杭州迪吉特",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动设备 · 浙江",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation",
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "官方运动休闲经销目录列明杭州迪吉特科技有限公司；通过六页公开目录读取。",
+      "region": "杭州",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "164cca093fd1",
+      "name": "重百电器",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "家电零售 · 川渝区域",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2026-08-25/1225496525.PDF",
+        "https://www.ecovacs.cn/buy"
+      ],
+      "facts": "2026半年报第8页明确主体、商社电器品牌、电器业态及川渝业务；第9页披露供应链与电器内容运营。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "1d43bf219219",
+      "name": "阿里云云市场",
+      "parent": null,
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "AI软件 · 企业应用与服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://market.aliyun.com/common/marketpartner",
+        "https://market.aliyun.com/detail/cmgj00074089"
+      ],
+      "facts": "企业应用、AI商品与服务商招募",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "dd919a87890e",
+      "name": "商博士",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "玩具 · 进口品牌代理与销售",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/exhibitor/Zhejiang-SUNBOSE-Brand-Management-Co-Ltd--6819"
+      ],
+      "facts": "主办方展商名录披露进口品牌代理及销售，列TOYTRON、SPIN MASTER、JAKKS PACIFIC、BANDAI；展品含合金车模。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "7c99353f8dbb",
+      "name": "宏曜电子",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 江苏",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "江苏",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8a654b621bc9",
+      "name": "坤昇健行",
+      "parent": null,
+      "path": "business",
+      "subcategory": "运动与户外经营",
+      "tag": "运动集采 · 赛事与企业",
+      "directions": [
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.ksjx365.cn/",
+        "https://www.ksjx365.cn/products_show.aspx?id=477",
+        "https://www.ksjx365.cn/products.aspx?category_id=145",
+        "https://www.ksjx365.cn/products.aspx?category_id=144"
+      ],
+      "facts": "官网描述运动装备、企业集采、赛事运营及辅助智能硬件的运动场景方案。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c4d8c07f97ad",
+      "name": "华为云云商店",
+      "parent": null,
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "AI软件 · 企业应用与订阅",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://marketplace.huaweicloud.com/"
+      ],
+      "facts": "官方商品交易页列智能编程助手、AI办公插件和智能体编排服务，支持月/年等软件商品购买形式。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0f5fdcad9cc7",
+      "name": "芯数养电子",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 上海",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4f27cd3ff69e",
+      "name": "汇通达",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "消费电子 · 下沉分销",
+      "directions": [
+        "wearable",
+        "home",
+        "creative"
+      ],
+      "sources": [
+        "https://htd.cn/businessServices/consumer.html"
+      ],
+      "facts": "官网消费电子页区分品牌、运营商、代理、通路、零售等经营角色。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ad924f3c1b7d",
+      "name": "罗布教育",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人器材 · 四川",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "四川",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "43c9580e9905",
+      "name": "北京图书大厦",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "书店 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/"
+      ],
+      "facts": "优学派官方北京销售查询列北京图书大厦，点击显示西长安街17号；同一销售联系电话也用于平谷大众书店，未将后者追加为独立经营主体。",
+      "region": "北京",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "6f227aebfb3d",
+      "name": "雁文轩书店",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "书店 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/"
+      ],
+      "facts": "优学派官方北京销售查询列雁文轩书店七中店、绿地店；点击七中店显示大兴七中北，两店归并为一条展示名称。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "823c98487d11",
+      "name": "大众书局",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "书店 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/",
+        "https://www.dazo.com.cn/"
+      ],
+      "facts": "官网明确法人名称与连锁书店经营、团购、多元场景合作；优学派官方南京查询列大众书局弘阳店。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ff4285093588",
+      "name": "信誉楼",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "区域百货 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/",
+        "https://www.xinyulou.cn/index/about/companyProfile.html"
+      ],
+      "facts": "官网明确百货零售经营与统一标准化集采，区域涉及河北山东天津；优学派官方济南查询列信誉楼商厦。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5236bcf02312",
+      "name": "武汉京天电器",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "教育科研 · 机器人集成",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+        "https://www.heecshop.cn/company/12388"
+      ],
+      "facts": "教育科研 · 机器人集成",
+      "region": "武汉",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "02cc955c22c0",
+      "name": "山东振强具身智能",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "教育项目 · 创客设备供应",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+        "https://zcc.jnxy.edu.cn/info/1025/3835.htm"
+      ],
+      "facts": "教育项目 · 创客设备供应",
+      "region": "山东",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8d6bf6fba838",
+      "name": "上海亿嘟",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "亲子益智 · 品牌运营与分销",
+      "directions": [
+        "companion",
+        "learning"
+      ],
+      "sources": [
+        "https://www.yidutrading.com/en/about-us-3/",
+        "https://www.yidutrading.com/en/contact-us/"
+      ],
+      "facts": "亲子益智 · 品牌运营与分销",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ee43075dbed6",
+      "name": "伊登软件",
+      "parent": null,
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "企业软件 · 授权产品与技术服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.edensoft.com.cn/about",
+        "https://www.edensoft.com.cn/applyPartner"
+      ],
+      "facts": "官网列综合AI解决方案、云与IT基础服务；咨询表单产品选项包含微软License、Azure、D365、Jetbrains、PTC、Adobe及自有AI产品。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "e9a4b4e3a070",
+      "name": "上海以和",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "办公软硬件 · 经销与部署服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+        "https://yiheit.net/关于我们/"
+      ],
+      "facts": "微软官方Surface商用设备经销商名单列上海以和，并链接其官网。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "nanyang-softland",
+      "name": "南洋万邦",
+      "parent": null,
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "企业与设计软件 · 经销及技术服务",
+      "directions": [
+        "office",
+        "creative"
+      ],
+      "sources": [
+        "https://nysoftland.inesa.com/shnywb_panner/List/index.htm",
+        "https://www.adobe.com/cn/purchase/"
+      ],
+      "facts": "企业官网列软件代理、云订阅业务、部署实施与技术服务，涵盖企业办公和创意设计软件。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "research-934871be6a3d",
+      "name": "孕婴世界",
+      "parent": null,
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴加盟供应链",
+      "directions": [
+        "companion"
+      ],
+      "sources": [
+        "https://www.scyysj.com/supply_hz.html",
+        "https://www.scyysj.com/ppjs.html"
+      ],
+      "facts": "母婴加盟供应链",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "research-e5d51ec653e0",
+      "name": "星光智能",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "智能影音方案与销售集成",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.starintegr.com/about-us",
+        "https://www.starintegr.com/about-us"
+      ],
+      "facts": "智能影音方案与销售集成",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "research-d545ccc1ecfa",
+      "name": "雷音音频（深圳）有限公司",
+      "parent": null,
+      "path": "business",
+      "subcategory": "音乐与专业创作",
+      "tag": "音频品牌分销与零售伙伴供货",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://www.leiyinaudio.com/",
+        "https://www.leiyinaudio.com/"
+      ],
+      "facts": "音频品牌分销与零售伙伴供货",
+      "region": "深圳",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "research-75280202a1cb",
+      "name": "成方策",
+      "parent": null,
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "教育设备经销",
+      "directions": [
+        "learning",
+        "office"
+      ],
+      "sources": [
+        "https://www.solutionkeys.com/aboutus/",
+        "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+        "https://www.solutionkeys.com/en/home/"
+      ],
+      "facts": "教育设备经销",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "research-279f5b0c7195",
+      "name": "上海广宣",
+      "parent": null,
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "企业软件代理",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.gx-soft.com/jianjie/",
+        "https://www.gx-soft.com/about/"
+      ],
+      "facts": "企业软件代理",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "software-comlan",
+      "name": "昆仑联通",
+      "parent": null,
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "企业软件 · IT运营服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.comlan.com/about/about_us/company_profile/",
+        "https://www.comlan.com/product/",
+        "https://www.adobe.com/cn/purchase/"
+      ],
+      "facts": "企业软件 · IT运营服务",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "software-sinoage",
+      "name": "信诺时代",
+      "parent": null,
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业办公 · 云与技术服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://sinoage.inesa.com/portal/index/index.htm",
+        "https://sinoage.inesa.com/bjxnsd_aiser/List/index.htm",
+        "https://www.adobe.com/cn/purchase/"
+      ],
+      "facts": "企业办公 · 云与技术服务",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "sspai",
+      "name": "少数派",
+      "parent": null,
+      "path": "content",
+      "subcategory": "科技与数码内容",
+      "tag": "数字消费 · 内容与产品共创",
+      "directions": [
+        "office",
+        "creative",
+        "wearable"
+      ],
+      "sources": [
+        "https://sspai.com/create",
+        "https://sspai.com/page/support"
+      ],
+      "facts": "数字消费 · 内容与产品共创",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ifanr",
+      "name": "爱范儿",
+      "parent": null,
+      "path": "content",
+      "subcategory": "直播与内容经营",
+      "tag": "科技生活 · 图文、视频与直播",
+      "directions": [
+        "creative",
+        "wearable",
+        "home",
+        "office"
+      ],
+      "sources": [
+        "https://www.ifanr.com/adinfo"
+      ],
+      "facts": "科技生活 · 图文、视频与直播",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "smzdm",
+      "name": "什么值得买",
+      "parent": null,
+      "path": "content",
+      "subcategory": "科技与数码内容",
+      "tag": "兴趣消费 · 内容导购与众测",
+      "directions": [
+        "companion",
+        "learning",
+        "creative",
+        "wearable",
+        "home",
+        "office"
+      ],
+      "sources": [
+        "https://e.smzdm.com/",
+        "https://shangjia.smzdm.com/",
+        "https://www.smzdm.com/bangzhu/"
+      ],
+      "facts": "兴趣消费 · 内容导购与众测",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "geekpark",
+      "name": "极客公园",
+      "parent": null,
+      "path": "content",
+      "subcategory": "科技与数码内容",
+      "tag": "科技内容 · 新品、访谈与活动",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://about.geekpark.net/",
+        "https://www.geekpark.net/about"
+      ],
+      "facts": "科技内容 · 新品、访谈与活动",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "sspai-members",
+      "name": "少数派会员社区",
+      "parent": "少数派",
+      "path": "community",
+      "subcategory": "会员与兴趣社群",
+      "tag": "数字生活 · 会员交流与共创",
+      "directions": [
+        "office",
+        "creative",
+        "wearable"
+      ],
+      "sources": [
+        "https://sspai.com/community",
+        "https://sspai.com/create"
+      ],
+      "facts": "数字生活 · 会员交流与共创",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "founderpark",
+      "name": "Founder Park",
+      "parent": "极客公园",
+      "path": "community",
+      "subcategory": "会员与兴趣社群",
+      "tag": "AI产品人 · 社群与产品市集",
+      "directions": [
+        "office",
+        "creative"
+      ],
+      "sources": [
+        "https://about.geekpark.net/"
+      ],
+      "facts": "AI产品人 · 社群与产品市集",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ifanr-future",
+      "name": "未来社",
+      "parent": "爱范儿",
+      "path": "community",
+      "subcategory": "会员与兴趣社群",
+      "tag": "科技生活 · 社区活动与沙龙",
+      "directions": [
+        "creative",
+        "wearable",
+        "home"
+      ],
+      "sources": [
+        "https://www.ifanr.com/adinfo"
+      ],
+      "facts": "科技生活 · 社区活动与沙龙",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究资料，未逐项实时复核",
+      "limits": "公开经营资料不证明联野已合作、新品准入、可调动的受众或成交效果。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a1f79727e2af",
+      "name": "毛源昌",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "专业体验与验配",
+      "tag": "眼镜 · 专业验配与交付",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/136e469f9db540c7987467dde77f07ca"
+      ],
+      "facts": "商务部老字号介绍列明品牌主体、验配加工与交付服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "介绍页未标明当前经营时点；不采用门店数作为当前规模，也不证明智能眼镜准入。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "edb2b534fb80",
+      "name": "交个朋友",
+      "parent": "",
+      "path": "content",
+      "subcategory": "直播与内容经营",
+      "tag": "直播 · 垂类内容成交",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "office",
+        "home",
+        "creative"
+      ],
+      "sources": [
+        "https://ir.befriends.com.cn/?languages=en"
+      ],
+      "facts": "公司介绍多平台、垂类直播间与数字化运营。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "企业自述，未核实特定商品选品、商务条款或实际承接容量。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "7c2edfbdc9e8",
+      "name": "中信书店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "文化零售 · 书店与文创",
+      "directions": [
+        "companion",
+        "learning"
+      ],
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2026-03-17/1225012376.PDF"
+      ],
+      "facts": "2025年年报介绍中信书店线上线下一体化，图书、文创与活动等复合服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "年报披露业务与规划，不证明智能硬件准入。原历史来源为年报摘要，改为支持书店经营细节的全文。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "753f14b9e7c3",
+      "name": "LOHO",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "专业体验与验配",
+      "tag": "眼镜 · 验配与体验",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://lh5.loho88.com/"
+      ],
+      "facts": "专业验配与线下体验经营。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "未证实智能眼镜在售、准入及服务能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "3fdf6153541e",
+      "name": "宝岛眼镜",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "专业体验与验配",
+      "tag": "专业验配服务",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://jyw.tjtc.edu.cn/company/index/sxid/120/id/2957.html"
+      ],
+      "facts": "高校就业平台企业主页介绍星创视界与宝岛品牌、视健康筛查和验配零售。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "企业招聘自述无明确经营时点；只支持专业业务性质，不证明当前门店数量、AI眼镜准入或本公司关系。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "6f17b63a264f",
+      "name": "i百联",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "零售电商 · 百联自营",
+      "directions": [
+        "wearable",
+        "office",
+        "creative"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权线上名单列有平台自营入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "bf6fe7c4ac0f",
+      "name": "西西弗",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "文化零售 · 文创与团购",
+      "directions": [
+        "companion",
+        "learning",
+        "ip"
+      ],
+      "sources": [
+        "https://www.sisyphe.com.cn/index.html"
+      ],
+      "facts": "直营文化零售；文创、童书体验；图书文创批采、礼品卡与品牌文化合作。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "文化合作、团购与实物采购分别确认；未证明AI商品准入。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "9d4d992ca01f",
+      "name": "模速 AI 体验店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "上海 · AI产品展示与反馈 / ",
+      "directions": [
+        "companion",
+        "wearable",
+        "office",
+        "creative"
+      ],
+      "sources": [
+        "https://www.gzw.sh.gov.cn/shgzw_xwzx_xwfb/20250430/dad835aa92b64ae8b8fdefcd04bb2874.html",
+        "https://edu.sh.gov.cn/study_cn_news/20260716/2c5fca5994d84a2e8ed2f9e6e76e14fb.html"
+      ],
+      "facts": "2025年报道介绍模速空间体验店呈现穿戴、效率、健康与音频等新品，并提供体验反馈。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明报道时体验店及相关活动，不证明当前店铺状态、成交质量、可统一铺货或我方关系。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5a9d5fe97369",
+      "name": "京东自营",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "零售电商 · 自营采购",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "office",
+        "home",
+        "creative"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权线上名单区分京东自营与平台店铺。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "79755d251a75",
+      "name": "遥望科技",
+      "parent": "",
+      "path": "content",
+      "subcategory": "直播与内容经营",
+      "tag": "直播 · 品牌运营与内容成交",
+      "directions": [
+        "companion",
+        "home",
+        "creative"
+      ],
+      "sources": [
+        "https://www.ywwl.com/about/"
+      ],
+      "facts": "官网介绍多平台直播电商、品牌托管及自研AI系统；页面提供品牌入驻入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "企业自述，不能据此推定AI效果或某个新品可准入。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "39c925723e1f",
+      "name": "红星 · 智电绿洲",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "家居 · 智电场景与服务",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.chinaredstar.com/news/article-323"
+      ],
+      "facts": "2025年公司报道宣布上海首馆升级，新增品类场景及用户服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "全国升级数量属计划，不计作已实现覆盖；公开描述不证明具体门店当前准入。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ffb92cfa7e3f",
+      "name": "北京 · 鼎信鼎峰",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "北京",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "adc434d6d80a",
+      "name": "天音通信",
+      "parent": "",
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "通讯 · 分销与零售服务",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.chinatelling.com/en/Tellingindustry/Tellingindustry_B2BOnlineDistribution.html"
+      ],
+      "facts": "手机分销、线上线下零售和增值服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "未使用历史规模；现时业务覆盖与新品条件仍待确认。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "9b5ee6c5f574",
+      "name": "九木杂物社",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "生活文创 · 多品类零售",
+      "directions": [
+        "companion",
+        "ip"
+      ],
+      "sources": [
+        "https://www.mg-pen.com/chenguangbrand/info.aspx?itemid=30"
+      ],
+      "facts": "生活百货连锁，集合设计与采购资源，关注实物体验与审美。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "陈列和客群相近不能证明具备AI设备售后与技术服务。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "497b58784473",
+      "name": "龙岗 AI 6S 店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "深圳 · AI体验与产业服务",
+      "directions": [
+        "companion",
+        "learning"
+      ],
+      "sources": [
+        "https://www.sz.gov.cn/szzt2010/szcycx/cxdt/content/post_12418547.html"
+      ],
+      "facts": "2025年报道介绍展示、销售、培训、社群、方案与孵化以及前店后厂模式。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "报道中宣布的服务不等于已验证经营效果，也不等于普通消费零售连锁或我方执行网络。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8d2be6896515",
+      "name": "唯品会",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "品牌电商 · 自营零售",
+      "directions": [],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权线上名单列有品牌电商自营入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c981c4bb5a54",
+      "name": "东方甄选",
+      "parent": "",
+      "path": "content",
+      "subcategory": "直播与内容经营",
+      "tag": "内容电商 · 自营与品牌商品",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0823/2024082301612.pdf"
+      ],
+      "facts": "2024财年公告介绍直播频道、多平台自营商品及会员应用业务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明公告期业务；不证明当前AI硬件选品、开放准入或我方关系。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5f50344aead0",
+      "name": "东方福利网",
+      "parent": "",
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业福利 · 预算与商品兑换",
+      "directions": [
+        "companion",
+        "home"
+      ],
+      "sources": [
+        "https://www.dongfangfuli.com/index"
+      ],
+      "facts": "官网区分福利商城与数字化预算平台，介绍选品、仓储、发放等服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "企业自述规模不转作我方网络；员工自主兑换与企业统一采购须分开。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ecd7a52131a7",
+      "name": "中免 · 深业上城",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "深圳 · 指定数码体验",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.xreal.com/cn/stores"
+      ],
+      "facts": "产品到店体验名单列有指定门店。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "33ffd7051df4",
+      "name": "上海 · 雅示",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "上海",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0f686f85f586",
+      "name": "山姆会员商店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "会员零售 · 商品采购",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权线上名单列有会员零售入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d5d5621ca4bd",
+      "name": "妈仔谷",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴童 · 湖南经营",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.mzg168.com/col.jsp?id=129"
+      ],
+      "facts": "历史介绍可证湖南母婴童零售与服务业务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "历史发展事件不能证明当下开店数或采购能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d5eea0c909a2",
+      "name": "礼享国际",
+      "parent": "",
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "企业礼品 · 定制与供给",
+      "directions": [
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.veegift.com/cn/"
+      ],
+      "facts": "官网介绍企业礼品、智慧生活等业务及礼品组合定制。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "企业自述与礼品方案，不证明中国内地AI新品经销容量或我方关系。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "560949720f0f",
+      "name": "海旅免税 · 迎宾路店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "三亚 · 配镜中心体验",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://www.xreal.com/cn/stores"
+      ],
+      "facts": "产品到店体验名单列有配镜中心。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "2752bbcd789b",
+      "name": "广州 · 索盟",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "广州",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "78bb99009502",
+      "name": "塑唐浩比",
+      "parent": "",
+      "path": "content",
+      "subcategory": "直播与内容经营",
+      "tag": "收藏玩具 · 零售与直播",
+      "directions": [
+        "ip"
+      ],
+      "sources": [
+        "https://sbs.scla.com.cn/ch/channels"
+      ],
+      "facts": "渠道目录介绍收藏类玩具的线上线下零售和专业直播经营；不采用目录的历史营业额或门店数。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "本轮只核对目录中的经营品类与模式，不采纳未注明当前时点的销量、门店量或下游规模。AI商品准入与合作均未知。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "f2512f74a9b8",
+      "name": "光谷机器人 7S 店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "武汉 · 机器人销售与服务",
+      "directions": [],
+      "sources": [
+        "https://sw.wuhan.gov.cn/xwdt/gzdt/202511/t20251112_2675851.shtml"
+      ],
+      "facts": "2025年开业报道介绍机器人整机销售、解决方案、展示、培训及反馈。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "限报道中的机器人产业服务，不推定普通AI消费新品准入、全国覆盖或当前持续经营。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "afedc69aed6f",
+      "name": "小熊U租",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "IT设备 · 租赁与现场服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://www.bearrental.com/index"
+      ],
+      "facts": "电脑租赁、上门IT服务、赛事服务与同行短期设备供给。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "AI新品租赁需额外核对残值、账号与服务成本；不是已验证准入。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ece6b362df96",
+      "name": "深圳 · 盛影",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "深圳",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "04bee9ae2b88",
+      "name": "高飞易",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "数码 · 银行APP商城",
+      "directions": [
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "facts": "授权名单列有银行APP中的销售主体。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "1248420cd00c",
+      "name": "易点云",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "办公设备 · 租用与IT服务",
+      "directions": [
+        "office"
+      ],
+      "sources": [
+        "https://group.edianyun.com/index"
+      ],
+      "facts": "办公电脑租用与IT服务，按办公任务区分配置。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "官网电脑租用不证明其他AI设备可进入租赁体系。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8c2cd6fa5e66",
+      "name": "成都 · 迪比特",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "成都",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "45edaa61c41e",
+      "name": "猫小兜",
+      "parent": "",
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "雕像手办 · 线上分销",
+      "directions": [
+        "ip"
+      ],
+      "sources": [
+        "https://sbs.scla.com.cn/ch/channels"
+      ],
+      "facts": "渠道目录描述雕像、手办类商品的线上分销合作；未采用目录中未注明现时口径的品牌或经销数量。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "本轮只核对目录中的经营品类与模式，不采纳未注明当前时点的销量、门店量或下游规模。AI商品准入与合作均未知。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8b44ef53788c",
+      "name": "原力城市 AI Store",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "AI产品 · 体验与采购研究 / AI体验零售与项目服务候选",
+      "directions": [
+        "companion",
+        "wearable"
+      ],
+      "sources": [
+        "https://www.forcecity.cn/ai-store",
+        "https://www.forcecity.cn/"
+      ],
+      "facts": "官网索引介绍AI硬件、智能体体验及采购租赁，FAQ区分天津落地与后续城市规划。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "企业自述尚未独立核实门店；不能把规划当全国覆盖，不能推定已卖出或已授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "47ff31793506",
+      "name": "哔哩哔哩会员购",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "IP消费 · 会员购与活动",
+      "directions": [
+        "companion",
+        "ip"
+      ],
+      "sources": [
+        "https://sbs.scla.com.cn/ch/channels"
+      ],
+      "facts": "行业渠道目录列有会员购及二次元消费者、衍生品与数码商品方向。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "行业目录非渠道采购授权；其中2021销售数据及网点数不作当前规模依据。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a2286461d375",
+      "name": "武汉 · 馨远征",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "武汉",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4342ecdaeee6",
+      "name": "翻翻动漫",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "IP衍生品 · 代理与三月兽零售",
+      "directions": [
+        "ip"
+      ],
+      "sources": [
+        "https://fanfannet.com/"
+      ],
+      "facts": "IP授权、衍生品代理发行与三月兽零售/展会业务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "内容授权、商品发行与零售供货不同；不另计三月兽为独立集团。AI商品准入未知。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "dfdbef03d7fe",
+      "name": "大光明眼镜",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "专业体验与验配",
+      "tag": "验配 · 特许联盟经营",
+      "directions": [
+        "wearable"
+      ],
+      "sources": [
+        "https://gbv.cn/join"
+      ],
+      "facts": "专业眼镜经营与验配；特许联盟保留独立资本所有权，提供品牌与经营支持。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "联盟门店不等于总部统一采购；未证明智能眼镜准入。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "713aef0c5fd0",
+      "name": "南京 · 索盟",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "南京",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c9f320ee6372",
+      "name": "欧玩",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "IP收藏 · 商品经销",
+      "directions": [
+        "ip"
+      ],
+      "sources": [
+        "https://sbs.scla.com.cn/ch/channels"
+      ],
+      "facts": "渠道目录描述收藏类IP商品的经销网络；展商页另展示手办、模型与周边品类。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "本轮只核对目录中的经营品类与模式，不采纳未注明当前时点的销量、门店量或下游规模。AI商品准入与合作均未知。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "18f49d97ecf9",
+      "name": "长沙 · 影越影像",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "长沙",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a2cec2824b79",
+      "name": "西安 · 鑫盛合",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "西安",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "21f71989a9aa",
+      "name": "杭州 · 索通",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "杭州",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "987c057b9843",
+      "name": "南宁 · 君人庆",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "南宁",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "cb3827a32056",
+      "name": "银川 · 恒友信",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "影像器材零售",
+      "directions": [
+        "creative"
+      ],
+      "sources": [
+        "https://store.dji.com/pages/where-to-buy-pro-dealers"
+      ],
+      "facts": "影像器材零售",
+      "region": "银川",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "原类别为研究判断，不代表当前适配或可入驻",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "f1182f3bd145",
+      "name": "怡亚通",
+      "parent": "",
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "供应链 · 营销分销",
+      "directions": [
+        "office",
+        "home",
+        "wearable"
+      ],
+      "sources": [
+        "https://www.eascs.com/integrated-business"
+      ],
+      "facts": "采购与销售执行、仓储及营销分销服务",
+      "region": "以来源为准",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "正文安全验证；业务线与AI新品承接条件尚未核实",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d2884e5dc8b7",
+      "name": "飞书应用目录",
+      "parent": "",
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "企业应用 · 集成生态",
+      "directions": [
+        "software"
+      ],
+      "sources": [
+        "https://app.feishu.cn/all"
+      ],
+      "facts": "第三方应用目录及AI录音应用索引",
+      "region": "以来源为准",
+      "observed": null,
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "集成与付费机制待核；不推定目录曝光等于渠道销售",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "48a0421893e0",
+      "name": "X11",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "潮玩 · 商品展售与IP经营",
+      "directions": [
+        "companion",
+        "ip"
+      ],
+      "sources": [
+        "https://www.kkgroup.cn/zh-CN/x11"
+      ],
+      "facts": "KK集团潮玩集合品牌，商品展售、IP运营与品牌合作入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "与KK其他品牌是同集团不同业务；不能将品牌合作入口视为AI商品采购承诺。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5ee7a145bb7c",
+      "name": "迪信通",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "通讯零售 · 代理探索",
+      "directions": [
+        "wearable",
+        "home"
+      ],
+      "sources": [
+        "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900642_c.pdf"
+      ],
+      "facts": "官网展示手机和数码零售；2025年报第20、21页的2026业务展望披露AI眼镜、全屋智能等品类与代理分销探索。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "主营零售与未来代理探索分开；展望不是全部品类已有准入、当前门店经营成果或我方合作。未采用公开门店、财务及销量作为我方能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "6a0c18406612",
+      "name": "中邮普泰",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "消费电子 · 专项采购研究",
+      "directions": [],
+      "sources": [
+        "https://cg.gt.cn/cgxx/002001/20260903/d9e301ac-4c88-43b0-b3e9-0191a54c55c3.html"
+      ],
+      "facts": "2026-09-03促销品采购公告载明带电类3C数码配件/周边范围、历史供货业绩和财务材料要求；响应截止2026-09-11。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "已过响应期限，具体标包不能推成全部AI商品的开放供应入口；中国邮电器材为本公告采购人，不将中邮品牌和集团主体混为一项采购权限。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "2eff6db90cab",
+      "name": "蔚蓝书店",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "机场集合零售",
+      "directions": [],
+      "sources": [
+        "https://www.avinex.com/pudong/List/info_itemid_8075.html"
+      ],
+      "facts": "烟台机场列儿童电子产品、玩具；浦东机场列小型电子产品。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "不同门店品类和采购条件不能互推，不采用互相冲突的全国门店总量",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "db196c12aad6",
+      "name": "郑州福广商贸 / 福广玩具",
+      "parent": "",
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "区域玩具分销与直营零售",
+      "directions": [],
+      "sources": [
+        "https://www.china-toy-expo.com/media_center/14035"
+      ],
+      "facts": "2021年行业协会专访介绍玩具代理、商超供货与自营玩具千慕志。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "具体业务为历史材料，2026会议索引只作近期活动线索；不复述旧规模为现状",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "dc9212d8252c",
+      "name": "酷玩潮",
+      "parent": "",
+      "path": "content",
+      "subcategory": "科技与数码内容",
+      "tag": "垂直内容、玩家服务与文创共创",
+      "directions": [],
+      "sources": [
+        "https://about.kuwanchao.com/toy-industry-platform/"
+      ],
+      "facts": "官网有积木零件销售、原创作品、企业礼赠和品牌合作入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "不能据此认定可分销通用AI硬件；官网成果为自述，不采用销量与粉丝数字",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "eec60dc933c5",
+      "name": "三福",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "文化与生活方式",
+      "tag": "年轻人生活方式零售",
+      "directions": [],
+      "sources": [
+        "https://www.sanfu.com/en/about"
+      ],
+      "facts": "官网介绍年轻客群和全国商圈布局。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "尚缺与目标新品相关的实际商品证据，不以宽泛生活方式定位直接进入AI渠道推荐",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "bd531a3c8332",
+      "name": "酷乐潮玩",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "潮玩零售",
+      "directions": [],
+      "sources": [
+        "https://www.pokemon.cn/tcg/pdf/shop2.pdf"
+      ],
+      "facts": "宝可梦官网店铺名单索引含多个酷乐门店。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "只能支持该卡牌品牌的历史门店线索，不能支持AI新品准入",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "1dad37dc3f41",
+      "name": "丽家宝贝",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "3ca09e6055f8",
+      "name": "登康贝比",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "02eddd27bd66",
+      "name": "爱婴岛",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "87f91860a2bd",
+      "name": "婴知岛",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "7e7fa9a6bbc1",
+      "name": "婴贝儿",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "967df026a277",
+      "name": "咿呀",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "feba139dc591",
+      "name": "小飞象",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "52273acc9e16",
+      "name": "米氏孕婴",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "095e23aa7678",
+      "name": "宝贝在线",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴销售通路",
+      "directions": [],
+      "sources": [
+        "https://www.meadjohnson.com.cn/commerce"
+      ],
+      "facts": "美赞臣官方线下购买渠道页列出该品牌。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "仅确认营养品品牌披露的通路，不推出当前玩具、电子产品或AI产品经营；页面部分旧品牌提示名单可能陈旧",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "bc964e9c9052",
+      "name": "贝登堡智能股份有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "教育经销商",
+      "directions": [],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "facts": "乐高教育授权名单列出，联系电话为台湾地区。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "页面China标记不能推出中国大陆供货网络",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c489f14f933e",
+      "name": "创意机器人科技有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "教育经销商",
+      "directions": [],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "facts": "乐高教育名单链接台湾域名并列台湾地区电话。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "不放入中国大陆首页候选集合",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "6561192b1011",
+      "name": "尊科數碼教育服務有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "教育经销商",
+      "directions": [],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "facts": "乐高教育名单列香港电话和官网。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "不推出中国大陆采购范围",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4d19b1a8b9e4",
+      "name": "杭州迈杰教育科技",
+      "parent": "",
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "教学装备定制与服务",
+      "directions": [],
+      "sources": [
+        "https://www.hzmaijie.com/"
+      ],
+      "facts": "官网有智慧、计算机、研讨教室与教学装备生产业务。",
+      "region": "杭州",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "制造和服务商不等于开放销售第三方新品的渠道，不直接展示为渠道",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a54112e097c8",
+      "name": "震旦",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "企业采购与专业分销",
+      "tag": "办公设备与空间服务",
+      "directions": [],
+      "sources": [
+        "https://www.aurora.com.cn/"
+      ],
+      "facts": "集团中国官网有办公自动化、家具、装备服务和供应商入口。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "供应商入口不能证明对消费AI新品开放，集团业务与地区需区分",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "13afa1e2cd45",
+      "name": "办公伙伴商城",
+      "parent": "",
+      "path": "business",
+      "subcategory": "企业采购与专业分销",
+      "tag": "政企采购商城 / 政企商品商城候选",
+      "directions": [],
+      "sources": [
+        "https://www.bghbsc.com/"
+      ],
+      "facts": "索引有政企采购和网络设备目录。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "主体、实际商品目录和现行供应商入口仍待核",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "87e052802e63",
+      "name": "合思商城",
+      "parent": "",
+      "path": "business",
+      "subcategory": "软件与应用生态",
+      "tag": "企业采购软件与商城入口",
+      "directions": [],
+      "sources": [
+        "https://www.hosecloud.com/procurement.html"
+      ],
+      "facts": "索引介绍企业办公文具、电脑数码采购。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "软件平台、商家与实际采购方不同，不能直接等同采购客户",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "9a12a4426a68",
+      "name": "北京坤鹏商务服务有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动场景渠道候选",
+      "directions": [],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：outdoorsport, run。",
+      "region": "北京",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "目录不是新品采购许可；需核对当前经营、采购权限及可引入产品。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "26d27bebf45d",
+      "name": "BITSHOP",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "数码与影像零售",
+      "tag": "数码零售门店",
+      "directions": [],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "目录不是新品采购许可；需核对经营主体、现营状态与可引入品牌。BITSHOP仅核实门店名，未核实法律主体。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a06c9af0d72e",
+      "name": "上海兽鸟智能科技有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "运动与户外经营",
+      "tag": "运动器材品牌总代理",
+      "directions": [],
+      "sources": [
+        "https://solefitness.com.cn/"
+      ],
+      "facts": "SOLE中国官网明确其为中国总代理，列出家用、商用器材、团购及安装服务。",
+      "region": "上海",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "佳明数据互联不等于佳明经销权；器材代理不推出任意AI新品采购能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "83281f9fe80c",
+      "name": "上海爱威影音电子技术有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "专业影音品牌代理",
+      "directions": [],
+      "sources": [
+        "https://www.garmin.com.cn/news/garmin/garmin-news-jl-audio/"
+      ],
+      "facts": "佳明官方公告列其为JL Audio家用音响中国大陆总代理。",
+      "region": "上海",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "代理权限针对指定品牌和产品；不能推出全品类授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "079a4aa51e79",
+      "name": "上海丰庭智能影音",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "影音与智能家居集成",
+      "directions": [],
+      "sources": [
+        "https://fengtingaudio.com/news/information/321.html"
+      ],
+      "facts": "公司2022年公开介绍涉及影音定制安装及智能家居。",
+      "region": "上海",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "资料较早；当前经营与采购能力未由此证实。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "3afd8db59d07",
+      "name": "昆山畅想生活智能科技有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "区域专业影音渠道",
+      "directions": [],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "facts": "爱威官方销售网络列名及代理产品：FOCAL定制系列。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "列名不推出其他品牌采购许可；区域以公开地址为依据，未推为全省覆盖。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "70c08ce137aa",
+      "name": "江苏易玛智能科技有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "区域专业影音渠道",
+      "directions": [],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "facts": "爱威官方销售网络列名及代理产品：FOCAL定制系列。",
+      "region": "江苏",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "列名不推出其他品牌采购许可；区域以公开地址为依据，未推为全省覆盖。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c486e04df813",
+      "name": "青岛中正铭远电子工程有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "区域专业影音渠道",
+      "directions": [],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "facts": "爱威官方销售网络列名及代理产品：Earthquake Sound。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "列名不推出其他品牌采购许可；区域以公开地址为依据，未推为全省覆盖。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5c7415799284",
+      "name": "成都翰程电器有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "家居与影音空间",
+      "tag": "区域专业影音渠道",
+      "directions": [],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "facts": "爱威官方销售网络列名及代理产品：FOCAL。",
+      "region": "成都",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "列名不推出其他品牌采购许可；区域以公开地址为依据，未推为全省覆盖。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a45557b8c938",
+      "name": "新疆昊龙孕婴玩具",
+      "parent": "",
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "区域玩具与母婴分销",
+      "directions": [],
+      "sources": [
+        "https://www.china-toy-expo.com/media_center/11669"
+      ],
+      "facts": "2020年中玩协报道列其为省级代理，经销低幼玩具。",
+      "region": "新疆",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "历史业务线索，当前经营需另核；不沿用旧门店数、营收或当年的采购意向作为当前能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "31ac1464a712",
+      "name": "广州市宝爱婴童用品有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "区域婴童与电子玩具分销",
+      "directions": [],
+      "sources": [
+        "https://www.china-toy-expo.com/media_center/11669"
+      ],
+      "facts": "2020年中玩协报道介绍电子、益智与婴幼儿玩具业务。",
+      "region": "广州",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "历史业务线索，当前经营需另核；不沿用旧门店数、营收或当年的采购意向作为当前能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "70f6c2be12d7",
+      "name": "上海申奕商贸发展有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "亲子与潮玩经营",
+      "tag": "母婴产品线上代理",
+      "directions": [],
+      "sources": [
+        "https://www.china-toy-expo.com/media_center/11669"
+      ],
+      "facts": "2020年中玩协报道介绍线上母婴品牌代理，并提到拓展玩具的意向。",
+      "region": "上海",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "历史业务线索，当前经营需另核；不沿用旧门店数、营收或当年的采购意向作为当前能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c8f8f42db7d8",
+      "name": "优必选教育生态",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "品牌经销与服务伙伴体系",
+      "directions": [],
+      "sources": [
+        "https://www.ubtrobot.com/cn/ai-education/contact"
+      ],
+      "facts": "官方招募区分经销伙伴与培训、交付和售后服务伙伴。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "作为教育渠道角色划分的反例依据；不是新增我方渠道，不把生产商品牌当第三方经销商。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "19338891b937",
+      "name": "宠发发 / 天元宠物",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物供应商与渠道商综合服务平台 / ",
+      "directions": [
+        "pet"
+      ],
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2024-05-22/1220129990.PDF",
+        "https://pc.petfafa.com/list?cat=smart"
+      ],
+      "facts": "2024年5月22日上市公司投资者活动记录将宠发发定义为链接宠物供应商和渠道商的综合服务平台；同时介绍旗下用品品牌和智能产品。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "披露为2024年材料；当前商城有智能好物分类，但本轮未核到第三方AI硬件在售SKU。与天元宠物按同一集团研究，不将制造商、自有品牌和商城拆成多个独立渠道。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "95dec8e453d3",
+      "name": "波奇",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物用品电商与内容入口",
+      "directions": [
+        "pet"
+      ],
+      "sources": [
+        "https://www.boqii.com/"
+      ],
+      "facts": "官网有商城入口，商品导航含宠物玩具、日用及水族设备。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "本轮未核到相关智能宠物硬件具体商品；宠物用品业务不能直接支持AI设备销售能力。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a52ced7f9622",
+      "name": "派多格",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物门店网络候选",
+      "directions": [
+        "pet"
+      ],
+      "sources": [
+        "https://www.apetdog.com/network.html"
+      ],
+      "facts": "官网搜索索引介绍门店网络；直接访问未成功。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "TLS证书异常，未绕过验证；只保留发现线索，不采用索引门店数字或认定当前经营及新品采购权限。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "2ae71844cadc",
+      "name": "宠老板 / 上海尊宠网络科技有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物门店经营系统与采购商城 / ",
+      "directions": [
+        "pet"
+      ],
+      "sources": [
+        "https://www.chonglaoban.cn/Index/shop"
+      ],
+      "facts": "官方页面介绍门店进货、控价、售后、多仓发货，以及门店小程序与商城打通的一件代发。页脚列上海尊宠网络科技有限公司。",
+      "region": "上海",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "不采用自述品牌数、SKU数与门店规模；未核到AI宠物设备具体商品。软件客户、采购门店不等于我方合作网点。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "cef8812f4c44",
+      "name": "瀚星科技 / 兽医首选 / 宠商首选",
+      "parent": "",
+      "path": "business",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物行业B2B供给与分销服务候选 / ",
+      "directions": [
+        "pet"
+      ],
+      "sources": [
+        "https://www.petcare.cn/supply_chain.html"
+      ],
+      "facts": "官方搜索索引区分直销与分销品牌，并介绍设备、用品及培训营销服务。",
+      "region": "以来源为准",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "正文访问超时，只保留官方索引；未核到智能宠物消费设备SKU，不采用自述门店或经销商总量。品牌按同一官网体系保留，不拆成多个独立渠道。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ab09da42a039",
+      "name": "上海优必杰教育科技有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "高校机器人实训项目供应主体",
+      "directions": [
+        "institutional_learning"
+      ],
+      "sources": [
+        "https://czzx.ecust.edu.cn/cms/contentwh/download.htm?attachmentid=dbb734362d664e4abb831b3648442340"
+      ],
+      "facts": "华东理工大学采购公告列该公司为中标供应商，具体标的含优必选ERXJ101和TX20；评审推荐理由涉及实施与售后方案。",
+      "region": "上海",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "中标不等于已交付或验收；与优必选股权及授权关系未核，不能认定为独立第三方总代，也不能推广为家庭零售。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "c3b5b1ee425e",
+      "name": "广州合源信息科技有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "AI与创新产品体验",
+      "tag": "职业学校实训项目集成候选",
+      "directions": [
+        "institutional_learning"
+      ],
+      "sources": [
+        "https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260920_27366162.htm"
+      ],
+      "facts": "官方搜索索引列其服务标的含开源人形双足教育机器人平台、多拟态教学机器人和课程资源包。",
+      "region": "广州",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "正文访问403；索引可支持发现项目供应主体，尚缺完整品牌型号、合同、验收与经营范围核实。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "53691ff75e90",
+      "name": "内蒙古鄂尔多斯市新华书店有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "学校创客教室项目供货候选",
+      "directions": [
+        "institutional_learning"
+      ],
+      "sources": [
+        "https://www.ordosggzyjy.org.cn/TPFront/ReadAttachFile.aspx?AttachID=22f04a5e-fd63-4ef8-9e8e-92a3604d5dd1"
+      ],
+      "facts": "公共交易平台附件索引列三所学校创客教室采购，供应主体为该公司，含Makeblock机器人。",
+      "region": "内蒙古",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "正文读取超时，公告日期尚未从正文确认；这支持机构项目线索，不证明所有新华书店门店经营机器人，也不证明家庭商品采购入口。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "0ddd9e46c8da",
+      "name": "山东思盟电子科技有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "教育与机构服务",
+      "tag": "教育设备项目供应候选",
+      "directions": [
+        "institutional_learning"
+      ],
+      "sources": [
+        "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/121255-5070-1-2-0/e56cbc2f-dfc8-4b6f-9e18-5b3ae803c15f-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html"
+      ],
+      "facts": "公共交易平台官方索引列该公司为中标主体，商品包含Makeblock程小奔及桌面机器人。",
+      "region": "山东",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "正文读取超时；公告时间未从正文确认，索引显示为数年前材料，只保留历史经营线索。不是当前新品开放准入或经营效果证据。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "f99ee2d7c66b",
+      "name": "合肥爱骆卜科技培训学校有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "教育与机构服务",
+      "tag": "机器人教育器材采购主体",
+      "directions": [
+        "learning"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "region": "合肥",
+      "observed": "2026-10-07",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4e0ec87ffc2c",
+      "name": "杭州华元宠物用品有限公司",
+      "parent": "",
+      "path": "business",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物用品线上经营与品牌分销 / ",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.globenewswire.com/news-release/2020/10/23/2113616/0/en/dogness-announces-strategic-partnership-with-huayuan-pet-and-chongai-trading.html",
+        "https://www.hoopet.com",
+        "https://vapp.tmuyun.com/webDetails/news?id=19849596&tenantId=45"
+      ],
+      "facts": "多尼斯原始企业新闻稿列明经营主体，公布智能与传统宠物产品合作。",
+      "region": "杭州",
+      "observed": "2026-10-08",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "公告非实际持续销售证明，现时经营范围与准入未核实；预计销售额不采用。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4c185f59b1a2",
+      "name": "上海宠爱商贸有限公司",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "宠物与垂直经营",
+      "tag": "宠物用品批发与品牌推广 / ",
+      "directions": [
+        "home"
+      ],
+      "sources": [
+        "https://www.globenewswire.com/news-release/2020/10/23/2113616/0/en/dogness-announces-strategic-partnership-with-huayuan-pet-and-chongai-trading.html",
+        "https://www.pet18.com"
+      ],
+      "facts": "多尼斯原始企业新闻稿列明经营主体，公布智能与传统宠物产品合作。",
+      "region": "上海",
+      "observed": "2026-10-08",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "公告非实际持续销售证明，现时经营范围与准入未核实；预计销售额不采用。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ddc93816b328",
+      "name": "阳光雨露",
+      "parent": "",
+      "path": "retail",
+      "subcategory": "AI与创新产品体验",
+      "tag": "交付与售后服务",
+      "directions": [
+        "office",
+        "home"
+      ],
+      "sources": [
+        "https://www.sunits.com/aboutus"
+      ],
+      "facts": "官网明确经营多厂商授权支持、商用IT运维、系统集成与智能家居服务。属于安装售后交付网络，不能直接计为销售通路。",
+      "region": "以来源为准",
+      "observed": "2026-10-08",
+      "provenance": "既有研究拓展，分类仍需按项目核对",
+      "limits": "官网不同段落授权厂商数口径不一致，不用于规模展示；无销售分销证据。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8eeb7948cbb6",
+      "name": "数字尾巴",
+      "parent": "",
+      "path": "content",
+      "subcategory": "数码与生活方式",
+      "tag": "数码与生活方式",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.dgtle.com/"
+      ],
+      "facts": "本次读取官方页面，识别为数码与生活方式的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d19c2891fccd",
+      "name": "雷科技",
+      "parent": "",
+      "path": "content",
+      "subcategory": "数码与生活方式",
+      "tag": "数码与生活方式",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.leikeji.com/"
+      ],
+      "facts": "本次读取官方页面，识别为数码与生活方式的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "86e7fbdc121c",
+      "name": "雷峰网",
+      "parent": "",
+      "path": "content",
+      "subcategory": "科技与产业内容",
+      "tag": "科技与产业内容",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.leiphone.com/"
+      ],
+      "facts": "本次读取官方页面，识别为科技与产业内容的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "7dd91dd2e34d",
+      "name": "IT之家",
+      "parent": "",
+      "path": "content",
+      "subcategory": "数码与生活方式",
+      "tag": "数码与生活方式",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.ithome.com/"
+      ],
+      "facts": "本次读取官方页面，识别为数码与生活方式的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "31df532e389a",
+      "name": "钛媒体",
+      "parent": "",
+      "path": "content",
+      "subcategory": "科技与产业内容",
+      "tag": "科技与产业内容",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.tmtpost.com/"
+      ],
+      "facts": "本次读取官方页面，识别为科技与产业内容的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "88003faba9af",
+      "name": "中关村在线",
+      "parent": "",
+      "path": "content",
+      "subcategory": "数码与生活方式",
+      "tag": "数码与生活方式",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.zol.com.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为数码与生活方式的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "727a6fb2ee06",
+      "name": "太平洋科技",
+      "parent": "",
+      "path": "content",
+      "subcategory": "数码与生活方式",
+      "tag": "数码与生活方式",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.pconline.com.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为数码与生活方式的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5c79414ec735",
+      "name": "泡泡网",
+      "parent": "",
+      "path": "content",
+      "subcategory": "数码与生活方式",
+      "tag": "数码与生活方式",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.pcpop.com/"
+      ],
+      "facts": "本次读取官方页面，识别为数码与生活方式的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b095235ae8d9",
+      "name": "虎嗅",
+      "parent": "",
+      "path": "content",
+      "subcategory": "科技与产业内容",
+      "tag": "科技与产业内容",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.huxiu.com/"
+      ],
+      "facts": "本次读取官方页面，识别为科技与产业内容的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "bf2e0de4ab7d",
+      "name": "机器之心",
+      "parent": "",
+      "path": "content",
+      "subcategory": "AI与专业技术",
+      "tag": "AI与专业技术",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.jiqizhixin.com/"
+      ],
+      "facts": "本次读取官方页面，识别为AI与专业技术的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8ed19a583f73",
+      "name": "量子位",
+      "parent": "",
+      "path": "content",
+      "subcategory": "AI与专业技术",
+      "tag": "AI与专业技术",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.qbitai.com/"
+      ],
+      "facts": "本次读取官方页面，识别为AI与专业技术的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8cf76fabefd4",
+      "name": "新片场",
+      "parent": "",
+      "path": "content",
+      "subcategory": "设计与影像创作",
+      "tag": "设计与影像创作",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.xinpianchang.com/"
+      ],
+      "facts": "本次读取官方页面，识别为设计与影像创作的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a6c2ccf90f7e",
+      "name": "优设",
+      "parent": "",
+      "path": "content",
+      "subcategory": "设计与影像创作",
+      "tag": "设计与影像创作",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.uisdc.com/"
+      ],
+      "facts": "本次读取官方页面，识别为设计与影像创作的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "bc0b7d4766b4",
+      "name": "站酷",
+      "parent": "",
+      "path": "community",
+      "subcategory": "设计与创作社区",
+      "tag": "设计与创作社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.zcool.com.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为设计与创作社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "1d34737f6184",
+      "name": "鸟哥笔记",
+      "parent": "",
+      "path": "community",
+      "subcategory": "产品与经营社区",
+      "tag": "产品与经营社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.niaogebiji.com/"
+      ],
+      "facts": "本次读取官方页面，识别为产品与经营社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "dc69bb8f4b76",
+      "name": "人人都是产品经理",
+      "parent": "",
+      "path": "community",
+      "subcategory": "产品与经营社区",
+      "tag": "产品与经营社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.woshipm.com/"
+      ],
+      "facts": "本次读取官方页面，识别为产品与经营社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "ad611c690e5c",
+      "name": "开源中国",
+      "parent": "",
+      "path": "community",
+      "subcategory": "开发者与开源",
+      "tag": "开发者与开源",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.oschina.net/"
+      ],
+      "facts": "本次读取官方页面，识别为开发者与开源的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "4f541a5393d0",
+      "name": "SegmentFault思否",
+      "parent": "",
+      "path": "community",
+      "subcategory": "开发者与开源",
+      "tag": "开发者与开源",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://segmentfault.com/"
+      ],
+      "facts": "本次读取官方页面，识别为开发者与开源的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a75c8c4c9345",
+      "name": "稀土掘金",
+      "parent": "",
+      "path": "community",
+      "subcategory": "开发者与开源",
+      "tag": "开发者与开源",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://juejin.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为开发者与开源的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "b3efbac82ef9",
+      "name": "V2EX",
+      "parent": "",
+      "path": "community",
+      "subcategory": "开发者与开源",
+      "tag": "开发者与开源",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.v2ex.com/"
+      ],
+      "facts": "本次读取官方页面，识别为开发者与开源的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "47fad60866d1",
+      "name": "HelloGitHub",
+      "parent": "",
+      "path": "community",
+      "subcategory": "开发者与开源",
+      "tag": "开发者与开源",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://hellogithub.com/"
+      ],
+      "facts": "本次读取官方页面，识别为开发者与开源的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "08e3d92865e5",
+      "name": "Datawhale",
+      "parent": "",
+      "path": "community",
+      "subcategory": "AI与数据社区",
+      "tag": "AI与数据社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.datawhale.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为AI与数据社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "5a82ad7e90ad",
+      "name": "WaytoAGI",
+      "parent": "",
+      "path": "community",
+      "subcategory": "AI与数据社区",
+      "tag": "AI与数据社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.waytoagi.com/"
+      ],
+      "facts": "本次读取官方页面，识别为AI与数据社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "d5207dff9944",
+      "name": "DF创客社区",
+      "parent": "",
+      "path": "community",
+      "subcategory": "创客与硬件社区",
+      "tag": "创客与硬件社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://mc.dfrobot.com.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为创客与硬件社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "87018473198f",
+      "name": "柴火创客空间",
+      "parent": "",
+      "path": "community",
+      "subcategory": "创客与硬件社区",
+      "tag": "创客与硬件社区",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.chaihuo.org/"
+      ],
+      "facts": "本次读取官方页面，识别为创客与硬件社区的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "8956dbe6f5c3",
+      "name": "深圳湾",
+      "parent": "",
+      "path": "content",
+      "subcategory": "创客与硬件内容",
+      "tag": "创客与硬件内容",
+      "directions": [
+        "creative",
+        "wearable",
+        "office"
+      ],
+      "sources": [
+        "https://www.shenzhenware.com/"
+      ],
+      "facts": "本次读取官方页面，识别为创客与硬件内容的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "7e1efb8cfa2c",
+      "name": "创业邦",
+      "parent": "",
+      "path": "community",
+      "subcategory": "创业与会员社群",
+      "tag": "创业与会员社群",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.cyzone.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为创业与会员社群的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "bdcd4bd4e962",
+      "name": "创业黑马",
+      "parent": "",
+      "path": "community",
+      "subcategory": "创业与会员社群",
+      "tag": "创业与会员社群",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.iheima.com/"
+      ],
+      "facts": "本次读取官方页面，识别为创业与会员社群的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "a5a4ad7506b8",
+      "name": "正和岛",
+      "parent": "",
+      "path": "community",
+      "subcategory": "创业与会员社群",
+      "tag": "创业与会员社群",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.zhisland.com/"
+      ],
+      "facts": "本次读取官方页面，识别为创业与会员社群的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    },
+    {
+      "id": "423bda4c55b2",
+      "name": "混沌学园",
+      "parent": "",
+      "path": "community",
+      "subcategory": "创业与会员社群",
+      "tag": "创业与会员社群",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "sources": [
+        "https://www.hundun.cn/"
+      ],
+      "facts": "本次读取官方页面，识别为创业与会员社群的公开内容或交流入口；未核实商务合作条件。",
+      "region": "线上 / 区域以来源为准",
+      "observed": "2026-10-19",
+      "provenance": "本次官方页面核查；只确认公开入口，不确认销售能力",
+      "limits": "机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。",
+      "relationship": "未建立合作"
+    }
+  ]
+}
