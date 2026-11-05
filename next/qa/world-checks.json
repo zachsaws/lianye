@@ -1,0 +1,59 @@
+{
+  "url": "http://127.0.0.1:8829/design-review/",
+  "checks": [
+    {
+      "width": 1440,
+      "hardwareDefault": true,
+      "allHardwareEntries": 229,
+      "softwareEntries": 45,
+      "allChaptersTested": 10,
+      "namesFullyRendered": true,
+      "keyboardFocusAndScrollRestore": "pass",
+      "outboundChannelLinks": 0,
+      "overflow": false,
+      "errors": [],
+      "metrics": {
+        "resourceBytes": 114772,
+        "domElements": 1487
+      }
+    },
+    {
+      "width": 390,
+      "hardwareDefault": true,
+      "allHardwareEntries": 229,
+      "softwareEntries": 45,
+      "allChaptersTested": 10,
+      "namesFullyRendered": true,
+      "keyboardFocusAndScrollRestore": "pass",
+      "outboundChannelLinks": 0,
+      "overflow": false,
+      "errors": [],
+      "metrics": {
+        "resourceBytes": 114772,
+        "domElements": 1487
+      }
+    },
+    {
+      "width": 320,
+      "hardwareDefault": true,
+      "allHardwareEntries": 229,
+      "softwareEntries": 45,
+      "allChaptersTested": 10,
+      "namesFullyRendered": true,
+      "keyboardFocusAndScrollRestore": "pass",
+      "outboundChannelLinks": 0,
+      "overflow": false,
+      "errors": [],
+      "metrics": {
+        "resourceBytes": 114772,
+        "domElements": 1487
+      }
+    }
+  ],
+  "scrollLinkedReveal": "pass",
+  "untested": [
+    "physical phone",
+    "WeChat WebView",
+    "independent aesthetic acceptance"
+  ]
+}

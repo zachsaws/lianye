@@ -9,7 +9,7 @@
 <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
 <script src="assets/network-data.js" defer></script>
-<script src="network-globe.js" defer></script>
+<script src="channel-world.js" defer></script>
 <script src="app.js" defer></script>
 </head>
 <body>
@@ -34,25 +34,10 @@
 <section class="channels" id="channels" aria-labelledby="channels-title">
   <header class="section-heading"><p class="eyebrow">渠道探索</p><h2 id="channels-title">你的新品，<br class="mobile-only">可以从哪里开始？</h2><p>它的第一批买家，可能就在你还没想到的地方。</p></header>
   <div class="network-controls" role="group" aria-label="选择产品类型"><button type="button" data-network="hardware" aria-pressed="true">智能硬件</button><button type="button" data-network="software" aria-pressed="false">AI 软件</button></div>
-  <div class="network-experience" id="channel-network" data-mode="hardware">
-    <div class="network-world">
-      <div class="channel-globe" id="channel-globe" aria-label="渠道入口空间图，可水平拖动探索">
-        <div class="globe-body" aria-hidden="true"></div>
-        <svg class="globe-wire" id="globe-wire" aria-hidden="true"></svg>
-        <div class="globe-labels" id="globe-labels"></div>
-        <span class="globe-axis" aria-hidden="true">新品</span>
-      </div>
-      <p class="world-caption"><span class="world-indicator" aria-hidden="true"></span><span id="network-product">智能硬件</span><span class="world-hint">拖动探索</span></p>
-    </div>
-    <div class="network-reading">
-      <p class="eyebrow">一个人群，多种入口</p>
-      <h3 id="network-group-title">创新产品体验</h3>
-      <p id="network-group-note">让人亲手试过再决定</p>
-      <div class="network-entry-list" id="network-entry-list"></div>
-      <div class="network-category-nav" role="group" aria-label="探索其他渠道方向" id="network-category-nav"></div>
-    </div>
+  <div class="channel-world" id="channel-network" data-mode="hardware">
+    <div class="world-viewport"><div class="world-sheets" id="world-sheets"></div></div>
   </div>
-  <p class="network-caption" id="network-caption">从亲手体验，到专业推荐与场景经营。</p>
+  <p class="network-caption" id="network-caption">从一款新品出发，走进不同人群与经营场景。</p>
   
 </section>
 
@@ -114,11 +99,17 @@
 </section>
 </main>
 <footer><span>联野</span><button type="button" id="review-info">关于本页</button><p>好产品，不该输在渠道上。</p><a href="#main">回到顶部 ↑</a></footer>
+<dialog class="channel-chapter-dialog" id="channel-chapter" aria-labelledby="chapter-title">
+  <button type="button" class="chapter-close" id="chapter-close" aria-label="返回渠道全景">×</button>
+  <p class="eyebrow">渠道探索</p><h2 id="chapter-title"></h2><p class="chapter-intro" id="chapter-intro"></p>
+  <div class="chapter-content" id="chapter-content"></div>
+  <button type="button" class="chapter-return" id="chapter-return">返回渠道全景</button>
+</dialog>
 <dialog id="design-notes" aria-labelledby="notes-title">
  <button type="button" class="dialog-close" id="close-notes" aria-label="关闭设计说明">×</button>
  <p class="eyebrow">联野</p><h2 id="notes-title">关于联野与渠道探索</h2>
  <p>联野为 AI 软件与智能硬件团队开发第一条销售路径，正在从首批合作开始。具体服务范围与合作方式按项目确认。</p>
- <p>渠道网络中的名称与经营方向来自公开来源，连线表示按人群与经营方式组织的探索方向，不表示这些经营者相互合作，也不表示联野已签约或取得新品准入。本页图形、插画与合作示意均为原创，不依赖经营者的实景素材。</p>
+ <p>渠道名称按人群与经营场景组织，来自公开经营资料。经营者名称及同一主体的关联入口一并呈现，不表示联野已经签约或取得新品准入。本页图形、插画与合作示意均为原创，不依赖经营者的实景素材。</p>
  <p>新品商业化一段以原创 AI 记录工具说明三种合作构想，便于了解品牌、伙伴与联野的分工，不属于客户案例或经营结果。</p>
  <h3>原创视觉与渠道依据</h3><div id="source-links"></div>
 

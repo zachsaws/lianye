@@ -570,3 +570,169 @@ footer #review-info:hover { text-decoration: underline; }
 .network-entry-list > .network-entry { display: flex; align-items: center; min-height: 55px; border-bottom: 1px solid #e1e4d9; font-size: 17px; line-height: 1.4; color: #4a563e; }
 @media (max-width:1100px) and (min-width:761px) { .network-entry-list > .network-entry { min-height:49px; font-size:15px; } }
 @media (max-width:760px) { .network-entry-list > .network-entry { min-height:53px; font-size:17px; } }
+
+/* Full-width channel composition: broad first view, deeper local chapters. */
+.channel-world { width: min(1680px,calc(100% - 38px)); margin: 0 auto; }
+.world-viewport { padding: 12px 5px 24px; }
+.world-sheets { display: grid; grid-template-columns: repeat(var(--sheet-count),minmax(0,1fr)); gap: 13px; align-items: start; }
+.world-sheet { min-width: 0; height: 710px; display: flex; flex-direction: column; padding: 0 17px; background: #fffef9; border: 1px solid #e4e2d7; border-radius: 3px; transform: rotate(var(--sheet-tilt)); box-shadow: 0 7px 19px #414b2d08; overflow: hidden; contain: paint; }
+.world-sheet:nth-child(6n+1) { margin-top: 25px; }
+.world-sheet:nth-child(6n+3) { margin-top: 42px; }
+.world-sheet:nth-child(6n+5) { margin-top: 17px; }
+.world-chapter-button { position: relative; display: block; flex: 0 0 auto; width: 100%; padding: 13px 0 24px; border: 0; border-bottom: 1px solid #e5e7dc; background: none; text-align: left; cursor: pointer; color: #35402c; }
+.world-chapter-art { width: 100%; max-width: 210px; margin: 0 auto; height: 121px; }
+.world-chapter-art svg { width: 100%; height: 100%; display: block; transition: translate 240ms; }
+.world-chapter-button h3 { font-size: clamp(19px,1.7vw,27px); font-weight: 600; letter-spacing: -.04em; line-height: 1.2; padding-right: 22px; }
+.chapter-expand { position: absolute; right: 0; bottom: 25px; color: #9b7a59; font-size: 20px; line-height: 1; transition: rotate 180ms; }
+.world-chapter-button:hover .chapter-expand { rotate: 90deg; }
+.world-chapter-button:hover svg { translate: 0 -3px; }
+.world-name-window { flex: 1; min-height: 0; overflow: hidden; mask-image: linear-gradient(to bottom,#000 0%,#000 80%,transparent 100%); }
+.world-name-list, .chapter-name-list { list-style: none; margin: 0; padding: 0; }
+.world-name-list { padding: 10px 0 45px; will-change: transform; }
+.world-name { padding: 17px 1px 15px; min-width: 0; }
+.world-name strong { display: block; font-size: clamp(17px,1.45vw,23px); font-weight: 500; line-height: 1.35; letter-spacing: -.03em; overflow-wrap: anywhere; color: #414d36; }
+.world-name:nth-child(3n+1) strong { font-weight: 650; }
+.world-name:first-child strong { font-size: clamp(23px,2vw,31px); font-weight: 600; }
+.world-name-context { display: block; color: #6c765d; font-size: 10px; line-height: 1.5; margin-top: 5px; letter-spacing: .03em; }
+.world-name.is-long strong { font-size: 15px; letter-spacing: -.02em; }
+.world-related { display: block; color: #8c674d; font-size: 10px; line-height: 1.5; margin-top: 5px; }
+.channel-world[data-mode="software"] { width: min(1330px,calc(100% - 48px)); }
+.channel-world[data-mode="software"] .world-sheet { padding-inline: 25px; }
+.channel-world[data-mode="software"] .world-name strong { font-size: 23px; }
+.channel-world[data-mode="software"] .world-name:first-child strong { font-size: 30px; }
+.channel-world[data-mode="software"] .world-name.is-long strong { font-size: 18px; }
+.channel-chapter-dialog { width: min(1000px,calc(100% - 40px)); max-width: none; padding: 45px 48px 30px; border-radius: 15px; background: #faf9f3; }
+.chapter-close { position: absolute; right: 17px; top: 11px; width: 44px; height: 44px; border: 0; background: none; font-size: 28px; color: #526244; cursor: pointer; }
+.channel-chapter-dialog h2 { font-size: 42px; margin: 14px 0 10px; line-height: 1.2; letter-spacing: -.04em; }
+.channel-chapter-dialog .chapter-intro { color: #657256; font-size: 16px; line-height: 1.7; margin-top: 0; }
+.chapter-content { margin-top: 31px; }
+.chapter-section { border-top: 1px solid #dbe0d0; padding-top: 16px; margin-top: 27px; }
+.chapter-section:first-child { margin-top: 0; }
+.channel-chapter-dialog .chapter-section h3 { color: #6b785d; font-size: 13px; font-weight: 500; letter-spacing: .05em; margin-top: 0; }
+.chapter-name-list { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); column-gap: 29px; margin-top: 12px; }
+.chapter-name-list .world-name { padding-block: 14px; border-bottom: 1px solid #e8eadf; }
+.chapter-name-list .world-name strong, .chapter-name-list .world-name:first-child strong { font-size: 19px; font-weight: 500; }
+.chapter-name-list .world-name.is-long strong { font-size: 15px; }
+.chapter-name-list .world-name-context { display: none; }
+.chapter-name-list .world-related { font-size: 11px; }
+.chapter-return { display: block; margin: 35px auto 0; min-height: 44px; padding: 10px 20px; color: #5a6c47; background: #edf0e3; border: 1px solid #d3dbc4; border-radius: 6px; cursor: pointer; font-size: 13px; }
+@media (max-width:1100px) and (min-width:761px) {
+  .world-sheets { grid-template-columns: repeat(3,minmax(0,1fr)); gap: 18px; }
+  .world-sheet { height: 480px; }
+  .world-sheet:nth-child(n) { margin-top: 0; }
+  .world-sheet:nth-child(3n+2) { margin-top: 25px; }
+  .world-chapter-art { height: 96px; }
+  .world-chapter-button { padding-bottom: 19px; }
+  .world-chapter-button h3 { font-size: 23px; }
+  .chapter-expand { bottom: 20px; }
+  .world-name strong { font-size: 22px; }
+  .world-name:first-child strong { font-size: 28px; }
+  .channel-world[data-mode="software"] .world-sheets { grid-template-columns: repeat(4,minmax(0,1fr)); }
+  .channel-world[data-mode="software"] .world-sheet { padding-inline: 16px; height: 650px; }
+  .channel-world[data-mode="software"] .world-name strong { font-size: 19px; }
+  .channel-world[data-mode="software"] .world-name:first-child strong { font-size: 25px; }
+}
+@media (max-width:760px) {
+  .channel-world, .channel-world[data-mode="software"] { width: calc(100% - 28px); }
+  .world-viewport { padding: 7px 2px 15px; }
+  .world-sheets { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 17px 12px; }
+  .world-sheet, .channel-world[data-mode="software"] .world-sheet { height: 360px; padding-inline: 12px; }
+  .world-sheet:nth-child(n) { margin-top: 0; }
+  .world-sheet:nth-child(2n) { margin-top: 25px; }
+  .world-chapter-button { padding: 5px 0 16px; }
+  .world-chapter-art { height: 87px; }
+  .world-chapter-button h3 { font-size: 18px; padding-right: 17px; }
+  .chapter-expand { bottom: 17px; font-size: 17px; }
+  .world-name { padding: 13px 0 11px; }
+  .world-name strong, .channel-world[data-mode="software"] .world-name strong { font-size: 17px; line-height: 1.35; }
+  .world-name:first-child strong, .channel-world[data-mode="software"] .world-name:first-child strong { font-size: 22px; }
+  .world-name.is-long strong, .channel-world[data-mode="software"] .world-name.is-long strong { font-size: 14px; }
+  .world-name-context, .world-related { font-size: 9px; margin-top: 4px; }
+  .world-name-window { mask-image: linear-gradient(to bottom,#000 0%,#000 74%,transparent 100%); }
+  .channel-chapter-dialog { width: calc(100% - 22px); max-height: calc(100svh - 24px); padding: 38px 23px 25px; }
+  .channel-chapter-dialog h2 { font-size: 32px; }
+  .channel-chapter-dialog .chapter-intro { font-size: 14px; }
+  .chapter-content { margin-top: 25px; }
+  .chapter-name-list { grid-template-columns: repeat(2,minmax(0,1fr)); column-gap: 20px; }
+  .chapter-name-list .world-name strong, .chapter-name-list .world-name:first-child strong { font-size: 16px; }
+  .chapter-name-list .world-name.is-long strong { font-size: 14px; }
+  .chapter-close { right: 8px; top: 8px; }
+}
+@media (max-width:350px) {
+  .world-sheet, .channel-world[data-mode="software"] .world-sheet { padding-inline: 9px; }
+  .world-chapter-button h3 { font-size: 16px; }
+  .world-name strong, .channel-world[data-mode="software"] .world-name strong { font-size: 15px; }
+  .world-name:first-child strong, .channel-world[data-mode="software"] .world-name:first-child strong { font-size: 20px; }
+  .chapter-name-list { grid-template-columns: 1fr; }
+}
+
+/* A folded editorial map, with operators larger than the category labels. */
+.channel-world, .channel-world[data-mode="software"] { width: min(1420px,calc(100% - 64px)); }
+.world-viewport { padding: 8px 0 12px; }
+.world-sheets { grid-template-columns: repeat(3,minmax(0,1fr)); gap: 0; background: #fffef8; border: 1px solid #e1e4d6; border-radius: 4px; box-shadow: 0 12px 35px #46543108; }
+.world-sheet, .channel-world[data-mode="software"] .world-sheet { height: 425px; padding: 0 27px; background: none; border: 0; border-radius: 0; border-right: 1px solid #e3e6d9; border-bottom: 1px solid #e3e6d9; transform: none; box-shadow: none; }
+.world-sheet:nth-child(n) { margin-top: 0; }
+.world-sheet:nth-child(3n) { border-right: 0; }
+.world-sheet:nth-last-child(-n+3) { border-bottom: 0; }
+.world-chapter-button { min-height: 102px; padding: 36px 100px 25px 0; border-bottom-color: #e5e8da; }
+.world-chapter-art { position: absolute; width: 117px; height: 81px; top: 9px; right: -8px; }
+.world-chapter-button h3 { font-size: 18px; font-weight: 500; letter-spacing: -.025em; padding-right: 0; color: #697859; }
+.chapter-expand { left: auto; right: 1px; bottom: 11px; font-size: 16px; color: #986b46; }
+.world-name-list { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); column-gap: 17px; padding-top: 13px; padding-bottom: 40px; }
+.world-name { padding: 12px 0 13px; min-height: 53px; }
+.world-name strong, .channel-world[data-mode="software"] .world-name strong { font-size: 19px; font-weight: 500; letter-spacing: -.025em; line-height: 1.4; color: #3c4a30; }
+.world-name:nth-child(3n+1) strong { font-weight: 600; }
+.world-name:first-child strong, .channel-world[data-mode="software"] .world-name:first-child strong { font-size: 25px; font-weight: 650; }
+.world-name:nth-child(4) strong { font-size: 21px; }
+.world-name.is-long strong, .channel-world[data-mode="software"] .world-name.is-long strong { font-size: 14px; }
+.world-name-context { display: none; }
+.world-related { font-size: 10px; margin-top: 4px; color: #926e4e; }
+.world-name-window { mask-image: linear-gradient(to bottom,#000 0%,#000 83%,transparent 100%); }
+.channel-world[data-mode="software"] { width: min(1140px,calc(100% - 64px)); }
+.channel-world[data-mode="software"] .world-sheets { grid-template-columns: repeat(2,minmax(0,1fr)); }
+.channel-world[data-mode="software"] .world-sheet { height: 380px; }
+.channel-world[data-mode="software"] .world-sheet:nth-child(n) { border-right: 1px solid #e3e6d9; border-bottom: 1px solid #e3e6d9; }
+.channel-world[data-mode="software"] .world-sheet:nth-child(2n) { border-right: 0; }
+.channel-world[data-mode="software"] .world-sheet:nth-last-child(-n+2) { border-bottom: 0; }
+@media (max-width:1100px) and (min-width:761px) {
+  .channel-world { width: calc(100% - 44px); }
+  .world-sheet { padding-inline: 20px; }
+  .world-chapter-button { padding-right: 75px; }
+  .world-chapter-art { width: 97px; }
+  .world-chapter-button h3 { font-size: 16px; }
+  .world-name strong { font-size: 16px; }
+  .world-name:first-child strong { font-size: 21px; }
+  .world-name:nth-child(4) strong { font-size: 18px; }
+}
+@media (max-width:760px) {
+  .channel-world, .channel-world[data-mode="software"] { width: calc(100% - 32px); }
+  .world-sheets, .channel-world[data-mode="software"] .world-sheets { grid-template-columns: 1fr; }
+  .world-sheet, .channel-world[data-mode="software"] .world-sheet { height: 350px; padding-inline: 23px; }
+  .world-sheet:nth-child(n), .channel-world[data-mode="software"] .world-sheet:nth-child(n) { margin-top: 0; border-right: 0; border-bottom: 1px solid #e0e5d5; }
+  .world-sheet:last-child, .channel-world[data-mode="software"] .world-sheet:last-child { border-bottom: 0; }
+  .world-chapter-button { min-height: 93px; padding: 32px 112px 23px 0; }
+  .world-chapter-art { width: 120px; height: 82px; top: 0; right: -8px; }
+  .world-chapter-button h3 { font-size: 19px; }
+  .chapter-expand { bottom: 10px; right: 0; }
+  .world-name-list { column-gap: 21px; padding-top: 12px; }
+  .world-name { padding-block: 10px 12px; min-height: 48px; }
+  .world-name strong, .channel-world[data-mode="software"] .world-name strong { font-size: 17px; }
+  .world-name:first-child strong, .channel-world[data-mode="software"] .world-name:first-child strong { font-size: 23px; }
+  .world-name:nth-child(4) strong { font-size: 19px; }
+  .world-name.is-long strong, .channel-world[data-mode="software"] .world-name.is-long strong { font-size: 13px; }
+  .world-related { font-size: 9px; }
+  .world-name-window { mask-image: linear-gradient(to bottom,#000 0%,#000 80%,transparent 100%); }
+}
+@media (max-width:350px) {
+  .world-sheet, .channel-world[data-mode="software"] .world-sheet { padding-inline: 18px; }
+  .world-chapter-button h3 { font-size: 17px; }
+  .world-chapter-button { padding-right: 100px; }
+  .world-chapter-art { width: 106px; }
+  .world-name strong, .channel-world[data-mode="software"] .world-name strong { font-size: 15px; }
+  .world-name:first-child strong, .channel-world[data-mode="software"] .world-name:first-child strong { font-size: 21px; }
+}
+
+html.chapter-open { overflow: hidden; }
+.channel-chapter-dialog { overscroll-behavior: contain; }
+/* Keep an exit available while reading a long chapter, including on phones. */
+.channel-chapter-dialog .chapter-close { position: sticky; top: 8px; right: auto; z-index: 3; display: block; margin: -28px -10px -16px auto; border-radius: 50%; background: #faf9f3; box-shadow: 0 0 0 5px #faf9f3e6; }

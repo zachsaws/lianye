@@ -91,7 +91,7 @@ notes.addEventListener('click', event => {
 });
 const sources = document.querySelector('#source-links');
 const uniqueSources = new Map();
-for (const mode of Object.values(window.LIANYE_NETWORK)) for (const group of mode.groups) for (const entry of group.entries) uniqueSources.set(entry.name, entry);
+for (const mode of Object.values(window.LIANYE_NETWORK)) for (const group of mode.groups) for (const entry of group.entries) { uniqueSources.set(entry.name, entry); for (const related of entry.related || []) uniqueSources.set(related.name, related); }
 for (const entry of uniqueSources.values()) {
   const link = document.createElement('a');
   link.href = entry.url;
