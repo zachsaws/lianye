@@ -8,7 +8,7 @@
   const list = document.querySelector('#network-entry-list');
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   const svgNS = 'http://www.w3.org/2000/svg';
-  let mode = 'software', groupIndex = 1, nodes = [], angle = -.35, tilt = -.12;
+  let mode = 'hardware', groupIndex = 0, nodes = [], angle = -.35, tilt = -.12;
   let start = null, dragged = false, frame = null, visible = false, entered = false;
   let width = 700, height = 620, radius = 215;
   let turning = null, entranceFrame = null;
@@ -110,10 +110,10 @@
     document.querySelector('#network-group-note').textContent=group.note;
     list.replaceChildren();
     group.entries.forEach(entry=>{
-      const link=document.createElement('a');link.href=entry.url;link.target='_blank';link.rel='noopener';
-      const name=document.createElement('span');name.textContent=entry.name;
-      const arrow=document.createElement('span');arrow.textContent='↗';arrow.setAttribute('aria-hidden','true');
-      link.append(name,arrow);link.setAttribute('aria-label',entry.name+'，查看公开入口，新窗口打开');list.append(link);
+      const item=document.createElement('p');
+      item.className='network-entry';
+      item.textContent=entry.name;
+      list.append(item);
     });
     [...nav.children].forEach((button,i)=>button.setAttribute('aria-pressed',String(i===index)));
     if(rotateView)turnToGroup(index,immediate);else schedule();
