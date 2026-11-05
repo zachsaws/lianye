@@ -1,0 +1,72 @@
+{
+  "url": "https://zachsaws.github.io/lianye/next/",
+  "checks": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "heroFits": true,
+      "modes": 2,
+      "categoriesPerMode": 6,
+      "channelsPerCategory": 4,
+      "keyboard": "pass",
+      "pointer": "mouse drag pass",
+      "cooperationStates": 3,
+      "clipboard": "success and denied fallback pass",
+      "dialog": "focus trap and return pass",
+      "overflow": false,
+      "errors": [],
+      "metrics": {
+        "transferBytes": 21329,
+        "resources": 6,
+        "domElements": 414
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "heroFits": true,
+      "modes": 2,
+      "categoriesPerMode": 6,
+      "channelsPerCategory": 4,
+      "keyboard": "pass",
+      "pointer": "touch drag and vertical scroll pass",
+      "cooperationStates": 3,
+      "clipboard": "success and denied fallback pass",
+      "dialog": "focus trap and return pass",
+      "overflow": false,
+      "errors": [],
+      "metrics": {
+        "transferBytes": 21329,
+        "resources": 6,
+        "domElements": 414
+      }
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "heroFits": true,
+      "modes": 2,
+      "categoriesPerMode": 6,
+      "channelsPerCategory": 4,
+      "keyboard": "pass",
+      "pointer": "touch drag and vertical scroll pass",
+      "cooperationStates": 3,
+      "clipboard": "success and denied fallback pass",
+      "dialog": "focus trap and return pass",
+      "overflow": false,
+      "errors": [],
+      "metrics": {
+        "transferBytes": 21329,
+        "resources": 6,
+        "domElements": 414
+      }
+    }
+  ],
+  "motion": "Intro stops after one brief entrance; manual rotation only afterwards",
+  "untested": [
+    "Physical mobile device",
+    "WeChat WebView",
+    "Native email app sending",
+    "Independent first-visit understanding and aesthetic acceptance"
+  ]
+}
