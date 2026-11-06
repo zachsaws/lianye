@@ -22,6 +22,7 @@ function setDealState(state){
   const incoming=document.querySelector(together?'.deal-result':'.apart-result');
   dealAnimations.push(incoming.animate([{opacity:0,transform:'translateY(14px)'},{opacity:1,transform:'translateY(0)'}],{duration:360,delay:together?100:0,fill:'backwards',easing:'ease-out'}));
   if(together){
+    document.querySelectorAll('.cooperation-plan li').forEach((step,i)=>dealAnimations.push(step.animate([{opacity:0,transform:'translateY(8px)'},{opacity:1,transform:'translateY(0)'}],{duration:300,delay:140+i*90,fill:'backwards',easing:'ease-out'})));
     const path=document.querySelector('.deal-bridge svg path');
     const length=path?.getTotalLength();
     if(path)dealAnimations.push(path.animate([{strokeDasharray:length,strokeDashoffset:length},{strokeDasharray:length,strokeDashoffset:0}],{duration:460,easing:'ease-out'}));
@@ -32,7 +33,7 @@ function setDealState(state){
   }
 }
 stateButtons.forEach(button=>button.addEventListener('click',()=>setDealState(button.dataset.dealState)));
-reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches)dealAnimations.forEach(animation=>animation.cancel())});
+reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches){document.getAnimations().forEach(animation=>animation.cancel());dealAnimations=[]}});
 // Scene and names arrive in reading order; content remains visible when JS or motion is unavailable.
 const revealObserver=window.IntersectionObserver?new IntersectionObserver(entries=>{
   for(const entry of entries){
