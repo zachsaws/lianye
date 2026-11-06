@@ -1,0 +1,6 @@
+{
+  "url": "https://raw.githubusercontent.com/greensock/GSAP/3.13.0/dist/gsap.min.js",
+  "version": "3.13.0",
+  "license": "https://gsap.com/standard-license",
+  "use": "scene timeline prototype; not yet loaded in published candidate"
+}
